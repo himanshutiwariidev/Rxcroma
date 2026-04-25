@@ -25,7 +25,7 @@ const categoryImageMap = {
   "Cardiac / Blood Pressure": "/images/heart.png",
   "Erectile Dysfunction": "/images/ed.png",
   "Mental Health / CNS": "/images/mentalhealth.png",
-  "Gastro / Acid Reflux": "/images/gastro.png",
+  "Gastro / Acid Reflux": "/images/Gastro.png",
   "Respiratory / Asthma": "/images/respiratory.png",
   "Thyroid / Hormonal": "/images/thyroid.png",
   "Pain / Anti-inflammatory": "/images/pain.png",
