@@ -1,9 +1,12 @@
 'use client'
 import Link from "next/link";
-import { useState } from "react";
+import { useRouter } from "next/navigation";
+import { useId, useMemo, useState } from "react";
 import { FaCartPlus } from "react-icons/fa";
 import { FaUser } from "react-icons/fa6";
+import { FiSearch } from "react-icons/fi";
 import { useCart } from "./CartProvider";
+import products from "../data/products.json";
 
 const navLinks = [
   { label: "How to Order", href: "/#how-to-order" },
@@ -13,6 +16,93 @@ const navLinks = [
   { label: "Privacy", href: "/privacy-policy" },
   { label: "Compliance", href: "/compliance" },
 ];
+
+function productMatchesQuery(product, query) {
+  const normalizedQuery = query.trim().toLowerCase();
+
+  if (!normalizedQuery) {
+    return false;
+  }
+
+  return [product.drugName, product.brandName, product.name].some((value) =>
+    value?.toLowerCase().includes(normalizedQuery),
+  );
+}
+
+function SearchForm({ className = "", onSearch }) {
+  const router = useRouter();
+  const searchId = useId();
+  const [query, setQuery] = useState("");
+  const trimmedQuery = query.trim();
+
+  const suggestions = useMemo(() => {
+    if (trimmedQuery.length < 2) {
+      return [];
+    }
+
+    return products.filter((product) => productMatchesQuery(product, trimmedQuery)).slice(0, 6);
+  }, [trimmedQuery]);
+
+  function submitSearch(event) {
+    event.preventDefault();
+
+    if (!trimmedQuery) {
+      return;
+    }
+
+    router.push(`/search?q=${encodeURIComponent(trimmedQuery)}`);
+    onSearch?.();
+    setQuery("");
+  }
+
+  return (
+    <form className={`relative ${className}`} onSubmit={submitSearch}>
+      <label className="sr-only" htmlFor={searchId}>
+        Search by drug or brand name
+      </label>
+      <div className="flex h-11 items-center rounded-full border border-orange-200 bg-white px-4 shadow-[0_12px_30px_-26px_rgba(232,132,26,0.7)] transition focus-within:border-[#E8841A] focus-within:ring-2 focus-within:ring-orange-100">
+        <FiSearch className="h-4 w-4 shrink-0 text-[#E8841A]" aria-hidden="true" />
+        <input
+          id={searchId}
+          type="search"
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
+          placeholder="Search drug or brand"
+          className="min-w-0 flex-1 bg-transparent px-3 text-sm font-semibold text-slate-800 outline-none placeholder:text-slate-400"
+        />
+        <button
+          type="submit"
+          className="rounded-full bg-[#E8841A] px-4 py-1.5 text-xs font-bold uppercase tracking-wide text-white transition hover:bg-[#cf6f0b]"
+        >
+          Search
+        </button>
+      </div>
+
+      {suggestions.length > 0 && (
+        <div className="absolute left-0 right-0 top-full z-30 mt-2 overflow-hidden rounded-2xl border border-orange-100 bg-white shadow-[0_24px_70px_-34px_rgba(15,23,42,0.45)]">
+          {suggestions.map((product) => (
+            <Link
+              key={product.id}
+              href={`/search?q=${encodeURIComponent(product.brandName || product.name)}`}
+              onClick={() => {
+                onSearch?.();
+                setQuery("");
+              }}
+              className="block px-4 py-3 text-left transition hover:bg-orange-50"
+            >
+              <span className="block text-sm font-semibold text-slate-950">
+                {product.brandName || product.name}
+              </span>
+              <span className="mt-0.5 block text-xs font-medium text-[#0f5a72]">
+                Drug: {product.drugName}
+              </span>
+            </Link>
+          ))}
+        </div>
+      )}
+    </form>
+  );
+}
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -72,6 +162,8 @@ export default function Navbar() {
           </Link>
         </div>
 
+        <SearchForm className="hidden min-w-[260px] max-w-md flex-1 md:block" />
+
         {/* Desktop nav links */}
         <nav className="hidden lg:flex flex-wrap items-center">
           {navLinks.map((item, i) => {
@@ -113,6 +205,10 @@ export default function Navbar() {
             }`}
           />
         </button>
+      </div>
+
+      <div className="border-b border-orange-100 bg-white px-4 py-3 md:hidden">
+        <SearchForm />
       </div>
 
       {/* Mobile dropdown menu */}
