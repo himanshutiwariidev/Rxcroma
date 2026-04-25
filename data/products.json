@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Atorvastatin",
+    "brandName": "Lipitor",
+    "name": "Lipitor",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "10mg",
+    "variants": [
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      },
+      {
+        "dosage": "80mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Diabetes",
+    "drugName": "Metformin",
+    "brandName": "Glucophage",
+    "name": "Glucophage",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "500mg IR",
+    "variants": [
+      {
+        "dosage": "500mg IR",
+        "price": 0
+      },
+      {
+        "dosage": "850mg IR",
+        "price": 0
+      },
+      {
+        "dosage": "1000mg IR",
+        "price": 0
+      },
+      {
+        "dosage": "500mg ER",
+        "price": 0
+      },
+      {
+        "dosage": "750mg ER",
+        "price": 0
+      },
+      {
+        "dosage": "1000mg ER",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Erectile Dysfunction",
+    "drugName": "Sildenafil",
+    "brandName": "Viagra",
+    "name": "Viagra",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "50mg",
+    "variants": [
+      {
+        "dosage": "50mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Mental Health / CNS",
+    "drugName": "Sertraline",
+    "brandName": "Zoloft",
+    "name": "Zoloft",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mg",
+    "variants": [
+      {
+        "dosage": "25mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      },
+      {
+        "dosage": "50mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Antibiotics",
+    "drugName": "Amoxicillin + Clavulanate",
+    "brandName": "Augmentin",
+    "name": "Augmentin",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "250 mg / 125 mg",
+    "variants": [
+      {
+        "dosage": "250 mg / 125 mg",
+        "price": 0
+      },
+      {
+        "dosage": "500 mg / 125 mg",
+        "price": 0
+      },
+      {
+        "dosage": "875 mg / 125 mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Gastro / Acid Reflux",
+    "drugName": "Esomeprazole",
+    "brandName": "Nexium",
+    "name": "Nexium",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "20mg",
+    "variants": [
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Respiratory / Asthma",
+    "drugName": "Salbutamol (Albuterol)",
+    "brandName": "Ventolin",
+    "name": "Ventolin",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "2mg TAblets",
+    "variants": [
+      {
+        "dosage": "2mg TAblets",
+        "price": 0
+      },
+      {
+        "dosage": "4mg Tablets",
+        "price": 0
+      },
+      {
+        "dosage": "100mcg MDI",
+        "price": 0
+      },
+      {
+        "dosage": "2.5mg/2.5mL Nebulizer Solution",
+        "price": 0
+      },
+      {
+        "dosage": "5mg/mL Nebulizer Solution",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Thyroid / Hormonal",
+    "drugName": "Levothyroxine",
+    "brandName": "Synthroid",
+    "name": "Synthroid",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mcg",
+    "variants": [
+      {
+        "dosage": "25mcg",
+        "price": 0
+      },
+      {
+        "dosage": "50mcg",
+        "price": 0
+      },
+      {
+        "dosage": "75mcg",
+        "price": 0
+      },
+      {
+        "dosage": "88mcg",
+        "price": 0
+      },
+      {
+        "dosage": "100mcg",
+        "price": 0
+      },
+      {
+        "dosage": "112mcg",
+        "price": 0
+      },
+      {
+        "dosage": "137mcg",
+        "price": 0
+      },
+      {
+        "dosage": "150mcg",
+        "price": 0
+      },
+      {
+        "dosage": "175mcg",
+        "price": 0
+      },
+      {
+        "dosage": "200mcg",
+        "price": 0
+      },
+      {
+        "dosage": "300mcg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Pain / Anti-inflammatory",
+    "drugName": "Diclofenac",
+    "brandName": "Voltaren IR",
+    "name": "Voltaren IR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mg",
+    "variants": [
+      {
+        "dosage": "25mg",
+        "price": 0
+      },
+      {
+        "dosage": "50mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Erectile Dysfunction",
+    "drugName": "Tadalafil",
+    "brandName": "Cialis",
+    "name": "Cialis",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "10mg",
+    "variants": [
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Gastro / Acid Reflux",
+    "drugName": "Omeprazole",
+    "brandName": "Prilosec",
+    "name": "Prilosec",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "10mg",
+    "variants": [
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Pain / Anti-inflammatory",
+    "drugName": "Diclofenac",
+    "brandName": "Voltaren SR",
+    "name": "Voltaren SR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "75mg",
+    "variants": [
+      {
+        "dosage": "75mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Mental Health / CNS",
+    "drugName": "Fluoxetine",
+    "brandName": "Prozac",
+    "name": "Prozac",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "10mg",
+    "variants": [
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Antibiotics",
+    "drugName": "Azithromycin",
+    "brandName": "Zithromax",
+    "name": "Zithromax",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "250mg",
+    "variants": [
+      {
+        "dosage": "250mg",
+        "price": 0
+      },
+      {
+        "dosage": "500mg",
+        "price": 0
+      },
+      {
+        "dosage": "600mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Erectile Dysfunction",
+    "drugName": "Vardenafil",
+    "brandName": "Levitra",
+    "name": "Levitra",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "5mg",
+    "variants": [
+      {
+        "dosage": "5mg",
+        "price": 0
+      },
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Pain / Anti-inflammatory",
+    "drugName": "Celecoxib",
+    "brandName": "Celebrex",
+    "name": "Celebrex",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "50mg",
+    "variants": [
+      {
+        "dosage": "50mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      },
+      {
+        "dosage": "200mg",
+        "price": 0
+      },
+      {
+        "dosage": "400mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Rosuvastatin",
+    "brandName": "Crestor",
+    "name": "Crestor",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "5mg",
+    "variants": [
+      {
+        "dosage": "5mg",
+        "price": 0
+      },
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Gastro / Acid Reflux",
+    "drugName": "Pantoprazole",
+    "brandName": "Protonix",
+    "name": "Protonix",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "20mg",
+    "variants": [
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Respiratory / Asthma",
+    "drugName": "Budesonide + Formoterol",
+    "brandName": "Symbicort",
+    "name": "Symbicort",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "80 mcg / 4.5 mcg per actuation",
+    "variants": [
+      {
+        "dosage": "80 mcg / 4.5 mcg per actuation",
+        "price": 0
+      },
+      {
+        "dosage": "160 mcg / 4.5 mcg per actuation",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Diabetes",
+    "drugName": "Sitagliptin",
+    "brandName": "Januvia",
+    "name": "Januvia",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mg",
+    "variants": [
+      {
+        "dosage": "25mg",
+        "price": 0
+      },
+      {
+        "dosage": "50mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Mental Health / CNS",
+    "drugName": "Escitalopram",
+    "brandName": "Lexapro",
+    "name": "Lexapro",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "5mg",
+    "variants": [
+      {
+        "dosage": "5mg",
+        "price": 0
+      },
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Antibiotics",
+    "drugName": "Ciprofloxacin",
+    "brandName": "Cipro IR",
+    "name": "Cipro IR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "250mg",
+    "variants": [
+      {
+        "dosage": "250mg",
+        "price": 0
+      },
+      {
+        "dosage": "500mg",
+        "price": 0
+      },
+      {
+        "dosage": "750mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Erectile Dysfunction",
+    "drugName": "Avanafil",
+    "brandName": "Stendra",
+    "name": "Stendra",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "50mg",
+    "variants": [
+      {
+        "dosage": "50mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      },
+      {
+        "dosage": "200mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Gastro / Acid Reflux",
+    "drugName": "Lansoprazole",
+    "brandName": "Prevacid",
+    "name": "Prevacid",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "15mg",
+    "variants": [
+      {
+        "dosage": "15mg",
+        "price": 0
+      },
+      {
+        "dosage": "30mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Respiratory / Asthma",
+    "drugName": "Fluticasone + Salmeterol",
+    "brandName": "Advair Diskus",
+    "name": "Advair Diskus",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "100 mcg / 50 mcg per inhalation",
+    "variants": [
+      {
+        "dosage": "100 mcg / 50 mcg per inhalation",
+        "price": 0
+      },
+      {
+        "dosage": "250 mcg / 50 mcg per inhalation",
+        "price": 0
+      },
+      {
+        "dosage": "500 mcg / 50 mcg per inhalation",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Pain / Anti-inflammatory",
+    "drugName": "Meloxicam",
+    "brandName": "Mobic",
+    "name": "Mobic",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "7.5mg",
+    "variants": [
+      {
+        "dosage": "7.5mg",
+        "price": 0
+      },
+      {
+        "dosage": "15mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Amlodipine",
+    "brandName": "Norvasc",
+    "name": "Norvasc",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "2.5mg",
+    "variants": [
+      {
+        "dosage": "2.5mg",
+        "price": 0
+      },
+      {
+        "dosage": "5mg",
+        "price": 0
+      },
+      {
+        "dosage": "10mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Diabetes",
+    "drugName": "Sitagliptin + Metformin",
+    "brandName": "Janumet IR",
+    "name": "Janumet IR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "50 mg / 500 mg",
+    "variants": [
+      {
+        "dosage": "50 mg / 500 mg",
+        "price": 0
+      },
+      {
+        "dosage": "50 mg / 850 mg",
+        "price": 0
+      },
+      {
+        "dosage": "50 mg / 1000 mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Mental Health / CNS",
+    "drugName": "Paroxetine",
+    "brandName": "Paxil",
+    "name": "Paxil",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "10mg",
+    "variants": [
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "30mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Antibiotics",
+    "drugName": "Ciprofloxacin",
+    "brandName": "Cipro ER",
+    "name": "Cipro ER",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "500mg",
+    "variants": [
+      {
+        "dosage": "500mg",
+        "price": 0
+      },
+      {
+        "dosage": "1000mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Respiratory / Asthma",
+    "drugName": "Tiotropium",
+    "brandName": "Spiriva",
+    "name": "Spiriva",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "18mcg",
+    "variants": [
+      {
+        "dosage": "18mcg",
+        "price": 0
+      },
+      {
+        "dosage": "1.25mcg",
+        "price": 0
+      },
+      {
+        "dosage": "2.5mcg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Antibiotics",
+    "drugName": "Levofloxacin",
+    "brandName": "Levaquin",
+    "name": "Levaquin",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "250mg",
+    "variants": [
+      {
+        "dosage": "250mg",
+        "price": 0
+      },
+      {
+        "dosage": "500mg",
+        "price": 0
+      },
+      {
+        "dosage": "750mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Thyroid / Hormonal",
+    "drugName": "Conjugated Estrogens",
+    "brandName": "Premarin",
+    "name": "Premarin",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "0.3mg",
+    "variants": [
+      {
+        "dosage": "0.3mg",
+        "price": 0
+      },
+      {
+        "dosage": "0.45mg",
+        "price": 0
+      },
+      {
+        "dosage": "0.625mg",
+        "price": 0
+      },
+      {
+        "dosage": "0.9mg",
+        "price": 0
+      },
+      {
+        "dosage": "1.25mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Losartan",
+    "brandName": "Cozaar",
+    "name": "Cozaar",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mg",
+    "variants": [
+      {
+        "dosage": "25mg",
+        "price": 0
+      },
+      {
+        "dosage": "50mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Diabetes",
+    "drugName": "Sitagliptin + Metformin",
+    "brandName": "Janumet XR",
+    "name": "Janumet XR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "50 mg / 1000 mg",
+    "variants": [
+      {
+        "dosage": "50 mg / 1000 mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg / 1000 mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Mental Health / CNS",
+    "drugName": "Bupropion",
+    "brandName": "Wellbutrin IR",
+    "name": "Wellbutrin IR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "75mg",
+    "variants": [
+      {
+        "dosage": "75mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Diabetes",
+    "drugName": "Glimepiride",
+    "brandName": "Amaryl",
+    "name": "Amaryl",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "1mg",
+    "variants": [
+      {
+        "dosage": "1mg",
+        "price": 0
+      },
+      {
+        "dosage": "2mg",
+        "price": 0
+      },
+      {
+        "dosage": "3mg",
+        "price": 0
+      },
+      {
+        "dosage": "4mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Telmisartan",
+    "brandName": "Micardis",
+    "name": "Micardis",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "20mg",
+    "variants": [
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "40mg",
+        "price": 0
+      },
+      {
+        "dosage": "80mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Mental Health / CNS",
+    "drugName": "Bupropion",
+    "brandName": "Wellbutrin SR",
+    "name": "Wellbutrin SR",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "100mg",
+    "variants": [
+      {
+        "dosage": "100mg",
+        "price": 0
+      },
+      {
+        "dosage": "150mg",
+        "price": 0
+      },
+      {
+        "dosage": "200mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Antibiotics",
+    "drugName": "Metronidazole",
+    "brandName": "Flagyl",
+    "name": "Flagyl",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "250mg",
+    "variants": [
+      {
+        "dosage": "250mg",
+        "price": 0
+      },
+      {
+        "dosage": "500mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Thyroid / Hormonal",
+    "drugName": "Levothyroxine",
+    "brandName": "Euthyrox",
+    "name": "Euthyrox",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mcg",
+    "variants": [
+      {
+        "dosage": "25mcg",
+        "price": 0
+      },
+      {
+        "dosage": "50mcg",
+        "price": 0
+      },
+      {
+        "dosage": "75mcg",
+        "price": 0
+      },
+      {
+        "dosage": "88mcg",
+        "price": 0
+      },
+      {
+        "dosage": "100mcg",
+        "price": 0
+      },
+      {
+        "dosage": "112mcg",
+        "price": 0
+      },
+      {
+        "dosage": "125mcg",
+        "price": 0
+      },
+      {
+        "dosage": "137mcg",
+        "price": 0
+      },
+      {
+        "dosage": "150mcg",
+        "price": 0
+      },
+      {
+        "dosage": "175mcg",
+        "price": 0
+      },
+      {
+        "dosage": "200mcg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Diabetes",
+    "drugName": "Empagliflozin",
+    "brandName": "Jardiance",
+    "name": "Jardiance",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "10mg",
+    "variants": [
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Mental Health / CNS",
+    "drugName": "Bupropion",
+    "brandName": "Wellbutrin XL",
+    "name": "Wellbutrin XL",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "150mg",
+    "variants": [
+      {
+        "dosage": "150mg",
+        "price": 0
+      },
+      {
+        "dosage": "300mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Valsartan",
+    "brandName": "Diovan",
+    "name": "Diovan",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "40mg",
+    "variants": [
+      {
+        "dosage": "40mg",
+        "price": 0
+      },
+      {
+        "dosage": "80mg",
+        "price": 0
+      },
+      {
+        "dosage": "160mg",
+        "price": 0
+      },
+      {
+        "dosage": "320mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Diabetes",
+    "drugName": "Semaglutide",
+    "brandName": "Rybelsus",
+    "name": "Rybelsus",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "7mg",
+    "variants": [
+      {
+        "dosage": "7mg",
+        "price": 0
+      },
+      {
+        "dosage": "3mg",
+        "price": 0
+      },
+      {
+        "dosage": "14mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Mental Health / CNS",
+    "drugName": "Duloxetine",
+    "brandName": "Cymbalta",
+    "name": "Cymbalta",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "20mg",
+    "variants": [
+      {
+        "dosage": "20mg",
+        "price": 0
+      },
+      {
+        "dosage": "30mg",
+        "price": 0
+      },
+      {
+        "dosage": "60mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Atenolol",
+    "brandName": "Tenormin",
+    "name": "Tenormin",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "25mg",
+    "variants": [
+      {
+        "dosage": "25mg",
+        "price": 0
+      },
+      {
+        "dosage": "50mg",
+        "price": 0
+      },
+      {
+        "dosage": "100mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Clopidogrel",
+    "brandName": "Plavix",
+    "name": "Plavix",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "75mg",
+    "variants": [
+      {
+        "dosage": "75mg",
+        "price": 0
+      },
+      {
+        "dosage": "300mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Apixaban",
+    "brandName": "Eliquis",
+    "name": "Eliquis",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "2.5mg",
+    "variants": [
+      {
+        "dosage": "2.5mg",
+        "price": 0
+      },
+      {
+        "dosage": "5mg",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Cardiac / Blood Pressure",
+    "drugName": "Rivaroxaban",
+    "brandName": "Xarelto",
+    "name": "Xarelto",
+    "label": "Rx",
+    "price": 0,
+    "href": "#buy",
+    "dosage": "2.5mg",
+    "variants": [
+      {
+        "dosage": "2.5mg",
+        "price": 0
+      },
+      {
+        "dosage": "5mg",
+        "price": 0
+      },
+      {
+        "dosage": "10mg",
+        "price": 0
+      },
+      {
+        "dosage": "20mg",
+        "price": 0
+      }
+    ]
+  }
+]
