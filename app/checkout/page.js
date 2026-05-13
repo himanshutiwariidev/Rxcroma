@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Footer from "../../components/Footer";
 import Navbar from "../../components/Navbar";
 import TopBar from "../../components/TopBar";
@@ -14,53 +14,166 @@ const FIELD_STYLE =
 
 const LABEL_STYLE = "mb-1.5 block text-xs font-semibold uppercase tracking-[0.1em] text-slate-500";
 
-const COUNTRY_OPTIONS = [
+const COUNTRY_API_URL = "https://restcountries.com/v3.1/all?fields=name,cca2,idd";
+
+const PHONE_PATTERN = "^\\+?[0-9][0-9\\s().-]{5,24}$";
+const PHONE_TITLE = "Use an international phone number, preferably with country code.";
+const POSTAL_PATTERN = "^([A-Z0-9][A-Z0-9\\s-]{1,14}|N/?A)$";
+const POSTAL_TITLE = "Use your postal/ZIP code, or N/A if your address does not use one.";
+
+const FALLBACK_COUNTRY_OPTIONS = [
   {
     label: "United States (USA)",
-    phonePattern: "^\\+1\\s?\\(?\\d{3}\\)?[\\s.-]?\\d{3}[\\s.-]?\\d{4}$",
+    phonePattern: PHONE_PATTERN,
     phonePlaceholder: "+1 (555) 000-0000",
-    phoneTitle: "Use a US number like +1 (555) 000-0000.",
-    postalLabel: "ZIP code",
-    postalPattern: "^\\d{5}(-\\d{4})?$",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
     postalPlaceholder: "10001",
-    postalTitle: "Use a 5-digit ZIP code or ZIP+4, like 10001 or 10001-1234.",
-    regionLabel: "State",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
     regionPlaceholder: "California",
+    dialCode: "+1",
     value: "US",
   },
   {
     label: "United Kingdom (UK)",
-    phonePattern: "^\\+44\\s?\\d{2,5}\\s?\\d{3,4}\\s?\\d{3,4}$",
+    phonePattern: PHONE_PATTERN,
     phonePlaceholder: "+44 20 7946 0958",
-    phoneTitle: "Use a UK number like +44 20 7946 0958.",
-    postalLabel: "Postcode",
-    postalPattern: "^[A-Z]{1,2}\\d[A-Z\\d]?\\s?\\d[A-Z]{2}$",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
     postalPlaceholder: "SW1A 1AA",
-    postalTitle: "Use a UK postcode like SW1A 1AA.",
-    regionLabel: "County / Region",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
     regionPlaceholder: "Greater London",
+    dialCode: "+44",
     value: "GB",
   },
   {
     label: "Canada",
-    phonePattern: "^\\+1\\s?\\(?\\d{3}\\)?[\\s.-]?\\d{3}[\\s.-]?\\d{4}$",
+    phonePattern: PHONE_PATTERN,
     phonePlaceholder: "+1 (416) 555-0123",
-    phoneTitle: "Use a Canadian number like +1 (416) 555-0123.",
-    postalLabel: "Postal code",
-    postalPattern: "^[A-Z]\\d[A-Z]\\s?\\d[A-Z]\\d$",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
     postalPlaceholder: "M5V 3L9",
-    postalTitle: "Use a Canadian postal code like M5V 3L9.",
-    regionLabel: "Province / Territory",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
     regionPlaceholder: "Ontario",
+    dialCode: "+1",
     value: "CA",
+  },
+  {
+    label: "India",
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: "+91 98765 43210",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "110001",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "Delhi",
+    dialCode: "+91",
+    value: "IN",
+  },
+  {
+    label: "United Arab Emirates",
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: "+971 50 123 4567",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "N/A",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "Dubai",
+    dialCode: "+971",
+    value: "AE",
+  },
+  {
+    label: "Australia",
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: "+61 412 345 678",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "2000",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "New South Wales",
+    dialCode: "+61",
+    value: "AU",
+  },
+  {
+    label: "Germany",
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: "+49 30 123456",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "10115",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "Berlin",
+    dialCode: "+49",
+    value: "DE",
+  },
+  {
+    label: "Japan",
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: "+81 90 1234 5678",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "100-0001",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "Tokyo",
+    dialCode: "+81",
+    value: "JP",
+  },
+  {
+    label: "France",
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: "+33 1 23 45 67 89",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "75001",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "Ile-de-France",
+    dialCode: "+33",
+    value: "FR",
   },
 ];
 
 const REQUIRED_CONTACT_FIELDS = ["fullName", "email", "country", "phone", "address", "city", "state", "zipCode"];
 const REQUIRED_PATIENT_FIELDS = ["age", "bodyWeight", "gender", "diseases", "allergies"];
 
-function getCountrySettings(country) {
-  return COUNTRY_OPTIONS.find((option) => option.value === country) || COUNTRY_OPTIONS[0];
+function buildCountryOption(country) {
+  const dialCode = [country.idd?.root, country.idd?.suffixes?.[0]].filter(Boolean).join("");
+
+  return {
+    dialCode,
+    label: country.name?.common || country.cca2,
+    phonePattern: PHONE_PATTERN,
+    phonePlaceholder: dialCode ? `${dialCode} phone number` : "+1 555 000 0000",
+    phoneTitle: PHONE_TITLE,
+    postalLabel: "Postal / ZIP code",
+    postalPattern: POSTAL_PATTERN,
+    postalPlaceholder: "Postal code or N/A",
+    postalTitle: POSTAL_TITLE,
+    regionLabel: "State / Province / Region",
+    regionPlaceholder: "Region",
+    value: country.cca2,
+  };
+}
+
+function getCountrySettings(country, countryOptions) {
+  return countryOptions.find((option) => option.value === country) || countryOptions[0];
 }
 
 export default function CheckoutPage() {
@@ -69,15 +182,17 @@ export default function CheckoutPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState("");
   const [activeSection, setActiveSection] = useState("contact");
+  const [countryOptions, setCountryOptions] = useState(FALLBACK_COUNTRY_OPTIONS);
+  const [isLoadingCountries, setIsLoadingCountries] = useState(true);
   const [customerDetails, setCustomerDetails] = useState({
     address: "",
     age: "",
     allergies: "",
-    bloodPressure: "",
-    bloodSugar: "",
     bodyWeight: "",
     city: "",
     country: "US",
+    countryDialCode: "+1",
+    countryName: "United States",
     currentMedicines: "",
     diseases: "",
     emergencyContact: "",
@@ -97,7 +212,7 @@ export default function CheckoutPage() {
   const [dragOver, setDragOver] = useState(false);
 
   const orderTotal = useMemo(() => subtotal + shippingFee, [subtotal]);
-  const selectedCountry = getCountrySettings(customerDetails.country);
+  const selectedCountry = getCountrySettings(customerDetails.country, countryOptions);
   const hasContactDetails = Boolean(
     REQUIRED_CONTACT_FIELDS.every((field) => customerDetails[field]?.trim()),
   );
@@ -110,6 +225,54 @@ export default function CheckoutPage() {
     prescriptionFile &&
     !isSubmitting;
 
+  useEffect(() => {
+    let ignore = false;
+
+    async function loadCountries() {
+      try {
+        const response = await fetch(COUNTRY_API_URL);
+        if (!response.ok) {
+          throw new Error("Unable to load countries");
+        }
+
+        const countries = await response.json();
+        const options = countries
+          .filter((country) => country.cca2 && country.name?.common)
+          .map(buildCountryOption)
+          .sort((a, b) => a.label.localeCompare(b.label));
+
+        if (ignore || options.length === 0) return;
+
+        setCountryOptions(options);
+        setCustomerDetails((details) => {
+          const currentCountry = options.find((option) => option.value === details.country);
+
+          return currentCountry
+            ? {
+                ...details,
+                countryDialCode: currentCountry.dialCode,
+                countryName: currentCountry.label,
+              }
+            : details;
+        });
+      } catch {
+        if (!ignore) {
+          setCountryOptions(FALLBACK_COUNTRY_OPTIONS);
+        }
+      } finally {
+        if (!ignore) {
+          setIsLoadingCountries(false);
+        }
+      }
+    }
+
+    loadCountries();
+
+    return () => {
+      ignore = true;
+    };
+  }, []);
+
   const handleInputChange = (e) => {
     const { name, value } = e.target;
     setCustomerDetails((d) => ({ ...d, [name]: value }));
@@ -117,9 +280,12 @@ export default function CheckoutPage() {
 
   const handleCountryChange = (e) => {
     const { value } = e.target;
+    const nextCountry = getCountrySettings(value, countryOptions);
     setCustomerDetails((d) => ({
       ...d,
       country: value,
+      countryDialCode: nextCountry.dialCode,
+      countryName: nextCountry.label,
       phone: "",
       state: "",
       zipCode: "",
@@ -326,7 +492,7 @@ export default function CheckoutPage() {
                         <InputField label="Full name" name="fullName" onChange={handleInputChange} required value={customerDetails.fullName} />
                         <InputField label="Email address" name="email" type="email" onChange={handleInputChange} required value={customerDetails.email} />
                         <SelectField label="Country" name="country" onChange={handleCountryChange} required value={customerDetails.country}>
-                          {COUNTRY_OPTIONS.map((country) => (
+                          {countryOptions.map((country) => (
                             <option key={country.value} value={country.value}>
                               {country.label}
                             </option>
@@ -363,6 +529,9 @@ export default function CheckoutPage() {
                           value={customerDetails.zipCode}
                         />
                       </div>
+                      {isLoadingCountries && (
+                        <p className="mt-3 text-xs text-slate-400">Loading worldwide country list...</p>
+                      )}
                       <div className="mt-5 flex justify-end">
                         <button type="button" onClick={() => setActiveSection("patient")} className="inline-flex items-center gap-2 rounded-full bg-[#c8701a] px-5 py-2.5 text-xs font-semibold uppercase tracking-wide text-white transition hover:bg-[#b05c0e]">
                           Next: Medical info
@@ -380,8 +549,6 @@ export default function CheckoutPage() {
                         <InputField label="Age" name="age" type="number" min="0" onChange={handleInputChange} required value={customerDetails.age} placeholder="e.g. 34" />
                         <InputField label="Body weight" name="bodyWeight" onChange={handleInputChange} required value={customerDetails.bodyWeight} placeholder="e.g. 72 kg" />
                         <InputField label="Height" name="height" onChange={handleInputChange} value={customerDetails.height} placeholder="e.g. 170 cm" />
-                        <InputField label="Blood pressure" name="bloodPressure" onChange={handleInputChange} value={customerDetails.bloodPressure} placeholder="e.g. 120/80" />
-                        <InputField label="Blood sugar" name="bloodSugar" onChange={handleInputChange} value={customerDetails.bloodSugar} placeholder="e.g. 95 mg/dL" />
                         <SelectField label="Gender" name="gender" onChange={handleInputChange} required value={customerDetails.gender}>
                           <option value="">Select</option>
                           <option value="female">Female</option>

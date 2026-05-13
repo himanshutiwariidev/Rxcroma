@@ -19,26 +19,9 @@ const requiredCustomerFields = [
   "allergies",
 ];
 
-const countryRules = {
-  CA: {
-    phonePattern: /^\+1\s?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$/i,
-    phoneTitle: "Use a Canadian number like +1 (416) 555-0123.",
-    postalPattern: /^[A-Z]\d[A-Z]\s?\d[A-Z]\d$/i,
-    postalTitle: "Use a Canadian postal code like M5V 3L9.",
-  },
-  GB: {
-    phonePattern: /^\+44\s?\d{2,5}\s?\d{3,4}\s?\d{3,4}$/i,
-    phoneTitle: "Use a UK number like +44 20 7946 0958.",
-    postalPattern: /^[A-Z]{1,2}\d[A-Z\d]?\s?\d[A-Z]{2}$/i,
-    postalTitle: "Use a UK postcode like SW1A 1AA.",
-  },
-  US: {
-    phonePattern: /^\+1\s?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$/i,
-    phoneTitle: "Use a US number like +1 (555) 000-0000.",
-    postalPattern: /^\d{5}(-\d{4})?$/i,
-    postalTitle: "Use a 5-digit ZIP code or ZIP+4, like 10001 or 10001-1234.",
-  },
-};
+const countryPattern = /^[A-Z]{2}$/i;
+const phonePattern = /^\+?[0-9][0-9\s().-]{5,24}$/i;
+const postalPattern = /^([A-Z0-9][A-Z0-9\s-]{1,14}|N\/?A)$/i;
 
 function parseJsonField(formData, fieldName, fallback) {
   const value = formData.get(fieldName);
@@ -71,25 +54,23 @@ export async function POST(request) {
       );
     }
 
-    const selectedCountryRules = countryRules[customerDetails.country];
-
-    if (!selectedCountryRules) {
+    if (!countryPattern.test(customerDetails.country.trim())) {
       return NextResponse.json(
-        { message: "Please choose United States, United Kingdom, or Canada." },
+        { message: "Please choose a valid country." },
         { status: 400 },
       );
     }
 
-    if (!selectedCountryRules.phonePattern.test(customerDetails.phone.trim())) {
+    if (!phonePattern.test(customerDetails.phone.trim())) {
       return NextResponse.json(
-        { message: selectedCountryRules.phoneTitle },
+        { message: "Use an international phone number, preferably with country code." },
         { status: 400 },
       );
     }
 
-    if (!selectedCountryRules.postalPattern.test(customerDetails.zipCode.trim())) {
+    if (!postalPattern.test(customerDetails.zipCode.trim())) {
       return NextResponse.json(
-        { message: selectedCountryRules.postalTitle },
+        { message: "Use your postal/ZIP code, or N/A if your address does not use one." },
         { status: 400 },
       );
     }
