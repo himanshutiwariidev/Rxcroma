@@ -3,7 +3,6 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useId, useMemo, useState } from "react";
 import { FaCartPlus } from "react-icons/fa";
-import { FaUser } from "react-icons/fa6";
 import { FiSearch } from "react-icons/fi";
 import { useCart } from "./CartProvider";
 import products from "../data/products.json";
@@ -135,14 +134,6 @@ export default function Navbar() {
 
         {/* Right side links */}
         <div className="flex items-center gap-1 text-white text-sm">
-          <Link href="/login" className="flex items-center gap-1.5 px-2 py-0.5 hover:opacity-80 transition">
-            ➔ <span className="hidden sm:inline">Sign In</span>
-          </Link>
-          <span className="text-white/40">|</span>
-          <Link href="/signup" className="flex items-center gap-1.5 px-2 py-0.5 hover:opacity-80 transition">
-            <FaUser /> <span className="hidden sm:inline">Create Account</span>
-          </Link>
-          <span className="text-white/40">|</span>
           <Link href="/checkout" className="flex items-center gap-1.5 px-2 py-0.5 hover:opacity-80 transition">
             <FaCartPlus />
             <span className="hidden sm:inline">Cart</span>

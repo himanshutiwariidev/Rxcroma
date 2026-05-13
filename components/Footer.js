@@ -9,8 +9,6 @@ const footerColumns = {
   ],
   Account: [
     { label: "Checkout", href: "/checkout" },
-    { label: "Login / Signup", href: "/login" },
-    { label: "Create Account", href: "/signup" },
   ],
   Policies: [
     { label: "Privacy Policy", href: "/privacy-policy" },
