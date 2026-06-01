@@ -1,5 +1,6 @@
 import "./globals.css";
 import { CartProvider } from "../components/CartProvider";
+import ChatBot from "@/components/ChatBot";
 
 export const metadata = {
   title: "Rxcroma",
@@ -11,6 +12,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className="h-full scroll-smooth antialiased">
       <body className="min-h-full flex flex-col">
         <CartProvider>{children}</CartProvider>
+        <ChatBot/>
       </body>
     </html>
   );
