@@ -19,6 +19,17 @@ import ReviewsSection from "./sections/reveiw";
 import WhyChooseUs from "./sections/whychooseus";
 import Howtoorder from "./sections/howtoorder";
 
+export const dynamic = "force-dynamic";
+
+function getRandomProducts(products, count) {
+  const shuffled = [...products];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled.slice(0, count);
+}
+
 const categoryImageMap = {
   "Diabetes": "/images/diabetes.png",
   "Antibiotics": "/images/antibiotics.png",
@@ -29,6 +40,7 @@ const categoryImageMap = {
   "Respiratory / Asthma": "/images/respiratory.png",
   "Thyroid / Hormonal": "/images/thyroid.png",
   "Pain / Anti-inflammatory": "/images/pain.png",
+  "Oncology": "/images/oncology.png",
 };
 
 const categories = Object.values(
@@ -296,7 +308,15 @@ export default function Home() {
           title="Popular prescription products"
           description="Product order requests are accepted only after prescription and policy checks are completed."
         />
-        <FeaturedProductsGrid products={featuredProducts} />
+        <FeaturedProductsGrid products={getRandomProducts(featuredProducts, 12)} />
+        <div className="mt-10 flex justify-center">
+          <Link
+            href="/products"
+            className="inline-flex rounded-full bg-[#e8841a] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#cf6f0b]"
+          >
+            View All Products
+          </Link>
+        </div>
       </section>
             <WhyChooseUs />
 

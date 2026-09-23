@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { FiCheck, FiShoppingCart } from "react-icons/fi";
 import { useCart } from "./CartProvider";
 
 export default function AddToCartButton({ product, className = "" }) {
@@ -28,9 +29,19 @@ export default function AddToCartButton({ product, className = "" }) {
     <button
       type="button"
       onClick={handleAddToCart}
-      className={`mt-6 inline-flex rounded-full bg-[#e8841a] px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-[#cf6f0b] ${className}`}
+      className={`inline-flex h-11 items-center justify-center gap-2 rounded-full bg-[#e8841a] px-6 text-sm font-semibold text-white transition hover:bg-[#cf6f0b] ${className}`}
     >
-      {justAdded ? "Added to cart" : "Add to Cart"}
+      {justAdded ? (
+        <>
+          <FiCheck className="h-4 w-4" aria-hidden="true" />
+          Added to cart
+        </>
+      ) : (
+        <>
+          <FiShoppingCart className="h-4 w-4" aria-hidden="true" />
+          Add to Cart
+        </>
+      )}
     </button>
   );
 }

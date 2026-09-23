@@ -8,6 +8,7 @@ import { useCart } from "./CartProvider";
 import products from "../data/products.json";
 
 const navLinks = [
+  { label: "Products", href: "/products" },
   { label: "How to Order", href: "/#how-to-order" },
   { label: "Rx Products", href: "/#rx-products" },
   { label: "Featured", href: "/#featured" },

@@ -26,7 +26,8 @@
         "dosage": "80mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Atorvastatin (marketed as Lipitor) is commonly prescribed for Cardiac / Blood Pressure. It is available in 4 pack sizes, from 10mg up to 80mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 2,
@@ -63,7 +64,8 @@
         "dosage": "1000mg ER",
         "price": 0
       }
-    ]
+    ],
+    "description": "Metformin (marketed as Glucophage) is commonly prescribed for Diabetes. It is available in 6 pack sizes, from 500mg IR up to 1000mg ER, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 3,
@@ -84,7 +86,8 @@
         "dosage": "100mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Sildenafil (marketed as Viagra) is commonly prescribed for Erectile Dysfunction. It is available in 2 pack sizes, from 50mg up to 100mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 4,
@@ -109,7 +112,8 @@
         "dosage": "50mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Sertraline (marketed as Zoloft) is commonly prescribed for Mental Health / CNS. It is available in 3 pack sizes, from 25mg up to 50mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 5,
@@ -134,7 +138,8 @@
         "dosage": "875 mg / 125 mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Amoxicillin + Clavulanate (marketed as Augmentin) is commonly prescribed for Antibiotics. It is available in 3 pack sizes, from 250 mg / 125 mg up to 875 mg / 125 mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 6,
@@ -155,7 +160,8 @@
         "dosage": "40mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Esomeprazole (marketed as Nexium) is commonly prescribed for Gastro / Acid Reflux. It is available in 2 pack sizes, from 20mg up to 40mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 7,
@@ -188,7 +194,8 @@
         "dosage": "5mg/mL Nebulizer Solution",
         "price": 0
       }
-    ]
+    ],
+    "description": "Salbutamol (Albuterol) (marketed as Ventolin) is commonly prescribed for Respiratory / Asthma. It is available in 5 pack sizes, from 2mg TAblets up to 5mg/mL Nebulizer Solution, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 8,
@@ -245,7 +252,8 @@
         "dosage": "300mcg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Levothyroxine (marketed as Synthroid) is commonly prescribed for Thyroid / Hormonal. It is available in 11 pack sizes, from 25mcg up to 300mcg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 9,
@@ -266,7 +274,8 @@
         "dosage": "50mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Diclofenac (marketed as Voltaren IR) is commonly prescribed for Pain / Anti-inflammatory. It is available in 2 pack sizes, from 25mg up to 50mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 10,
@@ -287,7 +296,8 @@
         "dosage": "20mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Tadalafil (marketed as Cialis) is commonly prescribed for Erectile Dysfunction. It is available in 2 pack sizes, from 10mg up to 20mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 11,
@@ -312,7 +322,8 @@
         "dosage": "40mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Omeprazole (marketed as Prilosec) is commonly prescribed for Gastro / Acid Reflux. It is available in 3 pack sizes, from 10mg up to 40mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 12,
@@ -333,7 +344,8 @@
         "dosage": "100mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Diclofenac (marketed as Voltaren SR) is commonly prescribed for Pain / Anti-inflammatory. It is available in 2 pack sizes, from 75mg up to 100mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 13,
@@ -358,7 +370,8 @@
         "dosage": "40mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Fluoxetine (marketed as Prozac) is commonly prescribed for Mental Health / CNS. It is available in 3 pack sizes, from 10mg up to 40mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 14,
@@ -383,7 +396,8 @@
         "dosage": "600mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Azithromycin (marketed as Zithromax) is commonly prescribed for Antibiotics. It is available in 3 pack sizes, from 250mg up to 600mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 15,
@@ -408,7 +422,8 @@
         "dosage": "20mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Vardenafil (marketed as Levitra) is commonly prescribed for Erectile Dysfunction. It is available in 3 pack sizes, from 5mg up to 20mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 16,
@@ -437,7 +452,8 @@
         "dosage": "400mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Celecoxib (marketed as Celebrex) is commonly prescribed for Pain / Anti-inflammatory. It is available in 4 pack sizes, from 50mg up to 400mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 17,
@@ -466,7 +482,8 @@
         "dosage": "40mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Rosuvastatin (marketed as Crestor) is commonly prescribed for Cardiac / Blood Pressure. It is available in 4 pack sizes, from 5mg up to 40mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 18,
@@ -487,7 +504,8 @@
         "dosage": "40mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Pantoprazole (marketed as Protonix) is commonly prescribed for Gastro / Acid Reflux. It is available in 2 pack sizes, from 20mg up to 40mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 19,
@@ -508,7 +526,8 @@
         "dosage": "160 mcg / 4.5 mcg per actuation",
         "price": 0
       }
-    ]
+    ],
+    "description": "Budesonide + Formoterol (marketed as Symbicort) is commonly prescribed for Respiratory / Asthma. It is available in 2 pack sizes, from 80 mcg / 4.5 mcg per actuation up to 160 mcg / 4.5 mcg per actuation, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 20,
@@ -533,7 +552,8 @@
         "dosage": "100mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Sitagliptin (marketed as Januvia) is commonly prescribed for Diabetes. It is available in 3 pack sizes, from 25mg up to 100mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 21,
@@ -558,7 +578,8 @@
         "dosage": "20mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Escitalopram (marketed as Lexapro) is commonly prescribed for Mental Health / CNS. It is available in 3 pack sizes, from 5mg up to 20mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 22,
@@ -583,7 +604,8 @@
         "dosage": "750mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Ciprofloxacin (marketed as Cipro IR) is commonly prescribed for Antibiotics. It is available in 3 pack sizes, from 250mg up to 750mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 23,
@@ -608,7 +630,8 @@
         "dosage": "200mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Avanafil (marketed as Stendra) is commonly prescribed for Erectile Dysfunction. It is available in 3 pack sizes, from 50mg up to 200mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 24,
@@ -629,7 +652,8 @@
         "dosage": "30mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Lansoprazole (marketed as Prevacid) is commonly prescribed for Gastro / Acid Reflux. It is available in 2 pack sizes, from 15mg up to 30mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 25,
@@ -654,7 +678,8 @@
         "dosage": "500 mcg / 50 mcg per inhalation",
         "price": 0
       }
-    ]
+    ],
+    "description": "Fluticasone + Salmeterol (marketed as Advair Diskus) is commonly prescribed for Respiratory / Asthma. It is available in 3 pack sizes, from 100 mcg / 50 mcg per inhalation up to 500 mcg / 50 mcg per inhalation, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 26,
@@ -675,7 +700,8 @@
         "dosage": "15mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Meloxicam (marketed as Mobic) is commonly prescribed for Pain / Anti-inflammatory. It is available in 2 pack sizes, from 7.5mg up to 15mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 27,
@@ -700,7 +726,8 @@
         "dosage": "10mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Amlodipine (marketed as Norvasc) is commonly prescribed for Cardiac / Blood Pressure. It is available in 3 pack sizes, from 2.5mg up to 10mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 28,
@@ -725,7 +752,8 @@
         "dosage": "50 mg / 1000 mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Sitagliptin + Metformin (marketed as Janumet IR) is commonly prescribed for Diabetes. It is available in 3 pack sizes, from 50 mg / 500 mg up to 50 mg / 1000 mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 29,
@@ -754,7 +782,8 @@
         "dosage": "40mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Paroxetine (marketed as Paxil) is commonly prescribed for Mental Health / CNS. It is available in 4 pack sizes, from 10mg up to 40mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 30,
@@ -775,7 +804,8 @@
         "dosage": "1000mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Ciprofloxacin (marketed as Cipro ER) is commonly prescribed for Antibiotics. It is available in 2 pack sizes, from 500mg up to 1000mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 31,
@@ -800,7 +830,8 @@
         "dosage": "2.5mcg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Tiotropium (marketed as Spiriva) is commonly prescribed for Respiratory / Asthma. It is available in 3 pack sizes, from 18mcg up to 2.5mcg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 32,
@@ -825,7 +856,8 @@
         "dosage": "750mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Levofloxacin (marketed as Levaquin) is commonly prescribed for Antibiotics. It is available in 3 pack sizes, from 250mg up to 750mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 33,
@@ -858,7 +890,8 @@
         "dosage": "1.25mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Conjugated Estrogens (marketed as Premarin) is commonly prescribed for Thyroid / Hormonal. It is available in 5 pack sizes, from 0.3mg up to 1.25mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 34,
@@ -883,7 +916,8 @@
         "dosage": "100mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Losartan (marketed as Cozaar) is commonly prescribed for Cardiac / Blood Pressure. It is available in 3 pack sizes, from 25mg up to 100mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 35,
@@ -904,7 +938,8 @@
         "dosage": "100mg / 1000 mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Sitagliptin + Metformin (marketed as Janumet XR) is commonly prescribed for Diabetes. It is available in 2 pack sizes, from 50 mg / 1000 mg up to 100mg / 1000 mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 36,
@@ -925,7 +960,8 @@
         "dosage": "100mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Bupropion (marketed as Wellbutrin IR) is commonly prescribed for Mental Health / CNS. It is available in 2 pack sizes, from 75mg up to 100mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 37,
@@ -954,7 +990,8 @@
         "dosage": "4mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Glimepiride (marketed as Amaryl) is commonly prescribed for Diabetes. It is available in 4 pack sizes, from 1mg up to 4mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 38,
@@ -979,7 +1016,8 @@
         "dosage": "80mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Telmisartan (marketed as Micardis) is commonly prescribed for Cardiac / Blood Pressure. It is available in 3 pack sizes, from 20mg up to 80mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 39,
@@ -1004,7 +1042,8 @@
         "dosage": "200mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Bupropion (marketed as Wellbutrin SR) is commonly prescribed for Mental Health / CNS. It is available in 3 pack sizes, from 100mg up to 200mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 40,
@@ -1025,7 +1064,8 @@
         "dosage": "500mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Metronidazole (marketed as Flagyl) is commonly prescribed for Antibiotics. It is available in 2 pack sizes, from 250mg up to 500mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 41,
@@ -1082,7 +1122,8 @@
         "dosage": "200mcg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Levothyroxine (marketed as Euthyrox) is commonly prescribed for Thyroid / Hormonal. It is available in 11 pack sizes, from 25mcg up to 200mcg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 42,
@@ -1103,7 +1144,8 @@
         "dosage": "20mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Empagliflozin (marketed as Jardiance) is commonly prescribed for Diabetes. It is available in 2 pack sizes, from 10mg up to 20mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 43,
@@ -1124,7 +1166,8 @@
         "dosage": "300mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Bupropion (marketed as Wellbutrin XL) is commonly prescribed for Mental Health / CNS. It is available in 2 pack sizes, from 150mg up to 300mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 44,
@@ -1153,7 +1196,8 @@
         "dosage": "320mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Valsartan (marketed as Diovan) is commonly prescribed for Cardiac / Blood Pressure. It is available in 4 pack sizes, from 40mg up to 320mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 45,
@@ -1178,7 +1222,8 @@
         "dosage": "14mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Semaglutide (marketed as Rybelsus) is commonly prescribed for Diabetes. It is available in 3 pack sizes, from 7mg up to 14mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 46,
@@ -1203,7 +1248,8 @@
         "dosage": "60mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Duloxetine (marketed as Cymbalta) is commonly prescribed for Mental Health / CNS. It is available in 3 pack sizes, from 20mg up to 60mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 47,
@@ -1228,7 +1274,8 @@
         "dosage": "100mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Atenolol (marketed as Tenormin) is commonly prescribed for Cardiac / Blood Pressure. It is available in 3 pack sizes, from 25mg up to 100mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 48,
@@ -1249,7 +1296,8 @@
         "dosage": "300mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Clopidogrel (marketed as Plavix) is commonly prescribed for Cardiac / Blood Pressure. It is available in 2 pack sizes, from 75mg up to 300mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 49,
@@ -1270,7 +1318,8 @@
         "dosage": "5mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Apixaban (marketed as Eliquis) is commonly prescribed for Cardiac / Blood Pressure. It is available in 2 pack sizes, from 2.5mg up to 5mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
   },
   {
     "id": 50,
@@ -1299,6 +1348,4143 @@
         "dosage": "20mg",
         "price": 0
       }
-    ]
+    ],
+    "description": "Rivaroxaban (marketed as Xarelto) is commonly prescribed for Cardiac / Blood Pressure. It is available in 4 pack sizes, from 2.5mg up to 20mg, to suit individual treatment needs. This is a prescription-only medicine and requires a valid prescription before dispensing."
+  },
+  {
+    "id": 51,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Dabrafenib",
+    "brandName": "Dabrafenib 75 mg capsules",
+    "name": "Dabrafenib 75 mg capsules",
+    "label": "Rx",
+    "price": 635,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 635
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 1211
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 1799
+      }
+    ],
+    "condition": "Thyroid Cancer",
+    "description": "Dabrafenib is a prescription oncology medicine used in the treatment of Thyroid Cancer. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 52,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Gemcitabine",
+    "brandName": "Gemcitabine 200 mg Injection",
+    "name": "Gemcitabine 200 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Pancreatic Cancer",
+    "description": "Gemcitabine is a prescription oncology medicine used in the treatment of Pancreatic Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 53,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Gemcitabine",
+    "brandName": "Gemcitabine 1gm Injection",
+    "name": "Gemcitabine 1gm Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Pancreatic Cancer",
+    "description": "Gemcitabine is a prescription oncology medicine used in the treatment of Pancreatic Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 54,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Gemcitabine",
+    "brandName": "Gemcitabine 2gm Injection",
+    "name": "Gemcitabine 2gm Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Pancreatic Cancer",
+    "description": "Gemcitabine is a prescription oncology medicine used in the treatment of Pancreatic Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 55,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Paclitaxel",
+    "brandName": "Paclitaxel 300 mg Injection (50ml)",
+    "name": "Paclitaxel 300 mg Injection (50ml)",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Pancreatic Cancer",
+    "description": "Paclitaxel is a prescription oncology medicine used in the treatment of Pancreatic Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 56,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Olaparib",
+    "brandName": "Olaparib 150 mg Tablets",
+    "name": "Olaparib 150 mg Tablets",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "120 pills",
+        "price": 275
+      },
+      {
+        "dosage": "180 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Pancreatic Cancer",
+    "description": "Olaparib is a prescription oncology medicine used in the treatment of Pancreatic Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 57,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Capecitabine",
+    "brandName": "Capecitabine 150 mg tablet",
+    "name": "Capecitabine 150 mg tablet",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 125
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      },
+      {
+        "dosage": "360 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Colorectal Cancer",
+    "description": "Capecitabine is a prescription oncology medicine used in the treatment of Colorectal Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 58,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Capecitabine",
+    "brandName": "Capecitabine 500 mg tablet",
+    "name": "Capecitabine 500 mg tablet",
+    "label": "Rx",
+    "price": 170,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 170
+      },
+      {
+        "dosage": "180 pills",
+        "price": 305
+      },
+      {
+        "dosage": "360 pills",
+        "price": 575
+      }
+    ],
+    "condition": "Colorectal Cancer",
+    "description": "Capecitabine is a prescription oncology medicine used in the treatment of Colorectal Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 59,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Leucovorin Calcium",
+    "brandName": "Leucovorin Calcium 15 mg tablets",
+    "name": "Leucovorin Calcium 15 mg tablets",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 125
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      },
+      {
+        "dosage": "360 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Colorectal Cancer",
+    "description": "Leucovorin Calcium is a prescription oncology medicine used in the treatment of Colorectal Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 60,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Leucovorin Calcium",
+    "brandName": "Leucovorin Calcium 50 Mg Injection",
+    "name": "Leucovorin Calcium 50 Mg Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Colorectal Cancer",
+    "description": "Leucovorin Calcium is a prescription oncology medicine used in the treatment of Colorectal Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 61,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Oxaliplatin",
+    "brandName": "Oxaliplatin 50 mg Injection",
+    "name": "Oxaliplatin 50 mg Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Colorectal Cancer",
+    "description": "Oxaliplatin is a prescription oncology medicine used in the treatment of Colorectal Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 62,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Capecitabine",
+    "brandName": "Capecitabine 150 mg tablet",
+    "name": "Capecitabine 150 mg tablet",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 125
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      },
+      {
+        "dosage": "360 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Capecitabine is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 63,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Capecitabine",
+    "brandName": "Capecitabine 500 mg tablet",
+    "name": "Capecitabine 500 mg tablet",
+    "label": "Rx",
+    "price": 170,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 170
+      },
+      {
+        "dosage": "180 pills",
+        "price": 305
+      },
+      {
+        "dosage": "360 pills",
+        "price": 575
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Capecitabine is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 64,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 20 mg injection",
+    "name": "Docetaxel 20 mg injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 65,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 80 mg Injection",
+    "name": "Docetaxel 80 mg Injection",
+    "label": "Rx",
+    "price": 215,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 215
+      },
+      {
+        "dosage": "10 vials",
+        "price": 395
+      },
+      {
+        "dosage": "15 vials",
+        "price": 575
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 66,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 120 mg Injection",
+    "name": "Docetaxel 120 mg Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 67,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Epirubicin",
+    "brandName": "Epirubicin 10 mg Injection",
+    "name": "Epirubicin 10 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Epirubicin is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 68,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Epirubicin",
+    "brandName": "Epirubicin 50 mg Injection",
+    "name": "Epirubicin 50 mg Injection",
+    "label": "Rx",
+    "price": 160,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 160
+      },
+      {
+        "dosage": "10 vials",
+        "price": 285
+      },
+      {
+        "dosage": "15 vials",
+        "price": 410
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Epirubicin is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 69,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Epirubicin",
+    "brandName": "Epirubicin 100 mg Injection",
+    "name": "Epirubicin 100 mg Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Epirubicin is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 70,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Mitomycin",
+    "brandName": "Mitomycin 2 mg Injection",
+    "name": "Mitomycin 2 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Mitomycin is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 71,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Mitomycin",
+    "brandName": "Mitomycin 10 mg Injection",
+    "name": "Mitomycin 10 mg Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Mitomycin is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 72,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Mitomycin",
+    "brandName": "Mitomycin 20 mg Injection",
+    "name": "Mitomycin 20 mg Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Gastric Cancer",
+    "description": "Mitomycin is a prescription oncology medicine used in the treatment of Gastric Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 73,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Temozolomide",
+    "brandName": "Temozolomide 20 mg Capsules",
+    "name": "Temozolomide 20 mg Capsules",
+    "label": "Rx",
+    "price": 215,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 215
+      },
+      {
+        "dosage": "180 pills",
+        "price": 395
+      },
+      {
+        "dosage": "360 pills",
+        "price": 755
+      }
+    ],
+    "condition": "Brain Tumour",
+    "description": "Temozolomide is a prescription oncology medicine used in the treatment of Brain Tumour. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 74,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Temozolomide",
+    "brandName": "Temozolomide 100 mg Capsules",
+    "name": "Temozolomide 100 mg Capsules",
+    "label": "Rx",
+    "price": 335,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 335
+      },
+      {
+        "dosage": "60 pills",
+        "price": 635
+      },
+      {
+        "dosage": "90 pills",
+        "price": 935
+      }
+    ],
+    "condition": "Brain Tumour",
+    "description": "Temozolomide is a prescription oncology medicine used in the treatment of Brain Tumour. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 75,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Dabrafenib",
+    "brandName": "Dabrafenib 75 mg capsules",
+    "name": "Dabrafenib 75 mg capsules",
+    "label": "Rx",
+    "price": 635,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 635
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 1211
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 1799
+      }
+    ],
+    "condition": "Melanoma",
+    "description": "Dabrafenib is a prescription oncology medicine used in the treatment of Melanoma. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 76,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Dacarbazine",
+    "brandName": "Dacarbazine 100mg",
+    "name": "Dacarbazine 100mg",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 85
+      },
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "15 vials",
+        "price": 185
+      }
+    ],
+    "condition": "Melanoma",
+    "description": "Dacarbazine is a prescription oncology medicine used in the treatment of Melanoma. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 77,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Dacarbazine",
+    "brandName": "Dacarbazine 200mg",
+    "name": "Dacarbazine 200mg",
+    "label": "Rx",
+    "price": 110,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 110
+      },
+      {
+        "dosage": "10 vials",
+        "price": 185
+      },
+      {
+        "dosage": "15 vials",
+        "price": 260
+      }
+    ],
+    "condition": "Melanoma",
+    "description": "Dacarbazine is a prescription oncology medicine used in the treatment of Melanoma. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 78,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Dacarbazine",
+    "brandName": "Dacarbazine 500mg",
+    "name": "Dacarbazine 500mg",
+    "label": "Rx",
+    "price": 160,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 160
+      },
+      {
+        "dosage": "10 vials",
+        "price": 285
+      },
+      {
+        "dosage": "15 vials",
+        "price": 410
+      }
+    ],
+    "condition": "Melanoma",
+    "description": "Dacarbazine is a prescription oncology medicine used in the treatment of Melanoma. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 79,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Bortezomib",
+    "brandName": "Bortezomib 2mg Injection",
+    "name": "Bortezomib 2mg Injection",
+    "label": "Rx",
+    "price": 110,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 110
+      },
+      {
+        "dosage": "10 vials",
+        "price": 185
+      },
+      {
+        "dosage": "15 vials",
+        "price": 260
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Bortezomib is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 80,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Carfilzomib",
+    "brandName": "Carfilzomib 30mg Injection",
+    "name": "Carfilzomib 30mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Carfilzomib is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 81,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Carfilzomib",
+    "brandName": "Carfilzomib 60mg Injection",
+    "name": "Carfilzomib 60mg Injection",
+    "label": "Rx",
+    "price": 1035,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 1035
+      },
+      {
+        "dosage": "10 vials",
+        "price": 2035
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Carfilzomib is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 82,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Lenalidomide",
+    "brandName": "Lenalidomide 10mg",
+    "name": "Lenalidomide 10mg",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Lenalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 83,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Lenalidomide",
+    "brandName": "Lenalidomide 25mg",
+    "name": "Lenalidomide 25mg",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 125
+      },
+      {
+        "dosage": "60 pills",
+        "price": 215
+      },
+      {
+        "dosage": "90 pills",
+        "price": 305
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Lenalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 84,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Melphalan",
+    "brandName": "Melphalan 50mg Injection",
+    "name": "Melphalan 50mg Injection",
+    "label": "Rx",
+    "price": 285,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 285
+      },
+      {
+        "dosage": "10 vials",
+        "price": 535
+      },
+      {
+        "dosage": "15 vials",
+        "price": 785
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Melphalan is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 85,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Melphalan",
+    "brandName": "Melphalan 2mg Tablets",
+    "name": "Melphalan 2mg Tablets",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Melphalan is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 86,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Pomalidomide",
+    "brandName": "Pomalidomide 1mg Capsules",
+    "name": "Pomalidomide 1mg Capsules",
+    "label": "Rx",
+    "price": 77,
+    "href": "#buy",
+    "dosage": "21 pills",
+    "variants": [
+      {
+        "dosage": "21 pills",
+        "price": 77
+      },
+      {
+        "dosage": "42 pills",
+        "price": 119
+      },
+      {
+        "dosage": "63 pills",
+        "price": 161
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Pomalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 21 pills up to 63 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 87,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Pomalidomide",
+    "brandName": "Pomalidomide 2mg Capsules",
+    "name": "Pomalidomide 2mg Capsules",
+    "label": "Rx",
+    "price": 140,
+    "href": "#buy",
+    "dosage": "21 pills",
+    "variants": [
+      {
+        "dosage": "21 pills",
+        "price": 140
+      },
+      {
+        "dosage": "42 pills",
+        "price": 245
+      },
+      {
+        "dosage": "63 pills",
+        "price": 350
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Pomalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 21 pills up to 63 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 88,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Pomalidomide",
+    "brandName": "Pomalidomide 4mg Capsules",
+    "name": "Pomalidomide 4mg Capsules",
+    "label": "Rx",
+    "price": 224,
+    "href": "#buy",
+    "dosage": "21 pills",
+    "variants": [
+      {
+        "dosage": "21 pills",
+        "price": 224
+      },
+      {
+        "dosage": "42 pills",
+        "price": 413
+      },
+      {
+        "dosage": "63 pills",
+        "price": 602
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Pomalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 21 pills up to 63 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 89,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Thalidomide",
+    "brandName": "Thalidomide 50mg Capsules",
+    "name": "Thalidomide 50mg Capsules",
+    "label": "Rx",
+    "price": 65,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 65
+      },
+      {
+        "dosage": "60 pills",
+        "price": 95
+      },
+      {
+        "dosage": "90 pills",
+        "price": 125
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Thalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 90,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Thalidomide",
+    "brandName": "Thalidomide 100mg Capsules",
+    "name": "Thalidomide 100mg Capsules",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Thalidomide is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 91,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Zoledronic Acid",
+    "brandName": "Zoledronic Acid 4mg Injection",
+    "name": "Zoledronic Acid 4mg Injection",
+    "label": "Rx",
+    "price": 60,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 60
+      },
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "15 vials",
+        "price": 110
+      }
+    ],
+    "condition": "Multiple Myeloma",
+    "description": "Zoledronic Acid is a prescription oncology medicine used in the treatment of Multiple Myeloma. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 92,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Bosutinib",
+    "brandName": "Bosutinib 100mg Capsule",
+    "name": "Bosutinib 100mg Capsule",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Bosutinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 93,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Bosutinib",
+    "brandName": "Bosutinib 400mg Capsule",
+    "name": "Bosutinib 400mg Capsule",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 185
+      },
+      {
+        "dosage": "60 pills",
+        "price": 335
+      },
+      {
+        "dosage": "90 pills",
+        "price": 485
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Bosutinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 94,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Bosutinib",
+    "brandName": "Bosutinib 500mg Capsule",
+    "name": "Bosutinib 500mg Capsule",
+    "label": "Rx",
+    "price": 245,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 245
+      },
+      {
+        "dosage": "60 pills",
+        "price": 455
+      },
+      {
+        "dosage": "90 pills",
+        "price": 665
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Bosutinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 95,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Dasatinib",
+    "brandName": "Dasatinib 20mg Tablet",
+    "name": "Dasatinib 20mg Tablet",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Dasatinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 96,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Dasatinib",
+    "brandName": "Dasatinib 50mg Tablet",
+    "name": "Dasatinib 50mg Tablet",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 125
+      },
+      {
+        "dosage": "60 pills",
+        "price": 215
+      },
+      {
+        "dosage": "90 pills",
+        "price": 305
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Dasatinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 97,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Dasatinib",
+    "brandName": "Dasatinib 70mg Tablet",
+    "name": "Dasatinib 70mg Tablet",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 155
+      },
+      {
+        "dosage": "60 pills",
+        "price": 275
+      },
+      {
+        "dosage": "90 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Dasatinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 98,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Imatinib",
+    "brandName": "Imatinib 400mg Tablet",
+    "name": "Imatinib 400mg Tablet",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 155
+      },
+      {
+        "dosage": "60 pills",
+        "price": 275
+      },
+      {
+        "dosage": "90 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Chronic Myeloid Leukemia",
+    "description": "Imatinib is a prescription oncology medicine used in the treatment of Chronic Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 99,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Dasatinib",
+    "brandName": "Dasatinib 20mg Tablet",
+    "name": "Dasatinib 20mg Tablet",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Dasatinib is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 100,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Dasatinib",
+    "brandName": "Dasatinib 50mg Tablet",
+    "name": "Dasatinib 50mg Tablet",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 125
+      },
+      {
+        "dosage": "60 pills",
+        "price": 215
+      },
+      {
+        "dosage": "90 pills",
+        "price": 305
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Dasatinib is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 101,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Imatinib",
+    "brandName": "Imatinib 400mg Tablet",
+    "name": "Imatinib 400mg Tablet",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 155
+      },
+      {
+        "dosage": "60 pills",
+        "price": 275
+      },
+      {
+        "dosage": "90 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Imatinib is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 102,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 5mg Tablet",
+    "name": "Methotrexate 5mg Tablet",
+    "label": "Rx",
+    "price": 65,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 65
+      },
+      {
+        "dosage": "60 pills",
+        "price": 95
+      },
+      {
+        "dosage": "90 pills",
+        "price": 125
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 103,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 10mg Tablet",
+    "name": "Methotrexate 10mg Tablet",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 80
+      },
+      {
+        "dosage": "60 pills",
+        "price": 125
+      },
+      {
+        "dosage": "90 pills",
+        "price": 170
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 104,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 50mg Tablet",
+    "name": "Methotrexate 50mg Tablet",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 105,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 50mg Injection",
+    "name": "Methotrexate 50mg Injection",
+    "label": "Rx",
+    "price": 60,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 60
+      },
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "15 vials",
+        "price": 110
+      }
+    ],
+    "condition": "Acute Lymphoblastic Leukemia",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Acute Lymphoblastic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 106,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Azacitidine",
+    "brandName": "Azacitidine 100mg Injection",
+    "name": "Azacitidine 100mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      }
+    ],
+    "condition": "Acute Myeloid Leukemia",
+    "description": "Azacitidine is a prescription oncology medicine used in the treatment of Acute Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 107,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Daunorubicin",
+    "brandName": "Daunorubicin 20mg Injection",
+    "name": "Daunorubicin 20mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 85
+      },
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "15 vials",
+        "price": 185
+      }
+    ],
+    "condition": "Acute Myeloid Leukemia",
+    "description": "Daunorubicin is a prescription oncology medicine used in the treatment of Acute Myeloid Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 108,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Acalabrutinib",
+    "brandName": "Acalabrutinib 100mg Capsules",
+    "name": "Acalabrutinib 100mg Capsules",
+    "label": "Rx",
+    "price": 275,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 275
+      },
+      {
+        "dosage": "60 pills",
+        "price": 515
+      },
+      {
+        "dosage": "90 pills",
+        "price": 755
+      }
+    ],
+    "condition": "Chronic Lymphocytic Leukemia",
+    "description": "Acalabrutinib is a prescription oncology medicine used in the treatment of Chronic Lymphocytic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 109,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Bendamustine",
+    "brandName": "Bendamustine 100mg Injection",
+    "name": "Bendamustine 100mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      }
+    ],
+    "condition": "Chronic Lymphocytic Leukemia",
+    "description": "Bendamustine is a prescription oncology medicine used in the treatment of Chronic Lymphocytic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 110,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Chlorambucil",
+    "brandName": "Chlorambucil 5mg Tablet",
+    "name": "Chlorambucil 5mg Tablet",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Chronic Lymphocytic Leukemia",
+    "description": "Chlorambucil is a prescription oncology medicine used in the treatment of Chronic Lymphocytic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 111,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Fludarabine",
+    "brandName": "Fludarabine 50mg Injection",
+    "name": "Fludarabine 50mg Injection",
+    "label": "Rx",
+    "price": 1035,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 1035
+      },
+      {
+        "dosage": "10 vials",
+        "price": 2035
+      }
+    ],
+    "condition": "Chronic Lymphocytic Leukemia",
+    "description": "Fludarabine is a prescription oncology medicine used in the treatment of Chronic Lymphocytic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 112,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Fludarabine",
+    "brandName": "Fludarabine 10mg Tablet",
+    "name": "Fludarabine 10mg Tablet",
+    "label": "Rx",
+    "price": 455,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 455
+      },
+      {
+        "dosage": "60 pills",
+        "price": 875
+      },
+      {
+        "dosage": "90 pills",
+        "price": 1295
+      }
+    ],
+    "condition": "Chronic Lymphocytic Leukemia",
+    "description": "Fludarabine is a prescription oncology medicine used in the treatment of Chronic Lymphocytic Leukemia. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 113,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Bendamustine",
+    "brandName": "Bendamustine 100mg Injection",
+    "name": "Bendamustine 100mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Bendamustine is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 114,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Dactinomycin",
+    "brandName": "Dactinomycin 0.5mg Injection",
+    "name": "Dactinomycin 0.5mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 85
+      },
+      {
+        "dosage": "10 vials",
+        "price": 135
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Dactinomycin is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 115,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Etoposide",
+    "brandName": "Etoposide 50 mg Capsules",
+    "name": "Etoposide 50 mg Capsules",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "40 capsules",
+    "variants": [
+      {
+        "dosage": "40 capsules",
+        "price": 85
+      },
+      {
+        "dosage": "80 capsules",
+        "price": 135
+      },
+      {
+        "dosage": "120 capsules",
+        "price": 185
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Etoposide is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 40 capsules up to 120 capsules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 116,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Etoposide",
+    "brandName": "Etoposide 100 mg Injection",
+    "name": "Etoposide 100 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Etoposide is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 117,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Fludarabine",
+    "brandName": "Fludarabine 50mg Injection",
+    "name": "Fludarabine 50mg Injection",
+    "label": "Rx",
+    "price": 1035,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 1035
+      },
+      {
+        "dosage": "10 vials",
+        "price": 2035
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Fludarabine is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 118,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Fludarabine",
+    "brandName": "Fludarabine 10mg Tablet",
+    "name": "Fludarabine 10mg Tablet",
+    "label": "Rx",
+    "price": 455,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 455
+      },
+      {
+        "dosage": "60 pills",
+        "price": 875
+      },
+      {
+        "dosage": "90 pills",
+        "price": 1295
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Fludarabine is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 119,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 5mg Tablet",
+    "name": "Methotrexate 5mg Tablet",
+    "label": "Rx",
+    "price": 65,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 65
+      },
+      {
+        "dosage": "60 pills",
+        "price": 95
+      },
+      {
+        "dosage": "90 pills",
+        "price": 125
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 120,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 10mg Tablet",
+    "name": "Methotrexate 10mg Tablet",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 80
+      },
+      {
+        "dosage": "60 pills",
+        "price": 125
+      },
+      {
+        "dosage": "90 pills",
+        "price": 170
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 121,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 50mg Tablet",
+    "name": "Methotrexate 50mg Tablet",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 122,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Methotrexate",
+    "brandName": "Methotrexate 50mg Injection",
+    "name": "Methotrexate 50mg Injection",
+    "label": "Rx",
+    "price": 60,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 60
+      },
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "15 vials",
+        "price": 110
+      }
+    ],
+    "condition": "Lymphoma",
+    "description": "Methotrexate is a prescription oncology medicine used in the treatment of Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 123,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Azacitidine",
+    "brandName": "Azacitidine 100mg Injection",
+    "name": "Azacitidine 100mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      }
+    ],
+    "condition": "Myelodysplastic Syndrome",
+    "description": "Azacitidine is a prescription oncology medicine used in the treatment of Myelodysplastic Syndrome. It falls under our Myeloma & Related Disorders range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 124,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Lenalidomide",
+    "brandName": "Lenalidomide 10mg",
+    "name": "Lenalidomide 10mg",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Myelodysplastic Syndrome",
+    "description": "Lenalidomide is a prescription oncology medicine used in the treatment of Myelodysplastic Syndrome. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 125,
+    "category": "Oncology",
+    "subCategory": "Myeloma & Related Disorders",
+    "drugName": "Lenalidomide",
+    "brandName": "Lenalidomide 25mg",
+    "name": "Lenalidomide 25mg",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 125
+      },
+      {
+        "dosage": "60 pills",
+        "price": 215
+      },
+      {
+        "dosage": "90 pills",
+        "price": 305
+      }
+    ],
+    "condition": "Myelodysplastic Syndrome",
+    "description": "Lenalidomide is a prescription oncology medicine used in the treatment of Myelodysplastic Syndrome. It falls under our Myeloma & Related Disorders range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 126,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Acalabrutinib",
+    "brandName": "Acalabrutinib 100mg Capsules",
+    "name": "Acalabrutinib 100mg Capsules",
+    "label": "Rx",
+    "price": 275,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 275
+      },
+      {
+        "dosage": "60 pills",
+        "price": 515
+      },
+      {
+        "dosage": "90 pills",
+        "price": 755
+      }
+    ],
+    "condition": "Mantle Cell Lymphoma",
+    "description": "Acalabrutinib is a prescription oncology medicine used in the treatment of Mantle Cell Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 127,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Bortezomib",
+    "brandName": "Bortezomib 2mg Injection",
+    "name": "Bortezomib 2mg Injection",
+    "label": "Rx",
+    "price": 110,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 110
+      },
+      {
+        "dosage": "10 vials",
+        "price": 185
+      },
+      {
+        "dosage": "15 vials",
+        "price": 260
+      }
+    ],
+    "condition": "Mantle Cell Lymphoma",
+    "description": "Bortezomib is a prescription oncology medicine used in the treatment of Mantle Cell Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 128,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Lenalidomide",
+    "brandName": "Lenalidomide 10mg",
+    "name": "Lenalidomide 10mg",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "condition": "Mantle Cell Lymphoma",
+    "description": "Lenalidomide is a prescription oncology medicine used in the treatment of Mantle Cell Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 129,
+    "category": "Oncology",
+    "subCategory": "Blood Cancers (Leukemia & Lymphoma)",
+    "drugName": "Lenalidomide",
+    "brandName": "Lenalidomide 25mg",
+    "name": "Lenalidomide 25mg",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 125
+      },
+      {
+        "dosage": "60 pills",
+        "price": 215
+      },
+      {
+        "dosage": "90 pills",
+        "price": 305
+      }
+    ],
+    "condition": "Mantle Cell Lymphoma",
+    "description": "Lenalidomide is a prescription oncology medicine used in the treatment of Mantle Cell Lymphoma. It falls under our Blood Cancers (Leukemia & Lymphoma) range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 130,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Octreotide",
+    "brandName": "Octreotide 0.1mg Injection",
+    "name": "Octreotide 0.1mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 85
+      },
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "15 vials",
+        "price": 180
+      }
+    ],
+    "condition": "Neuro-Endocrine Tumour",
+    "description": "Octreotide is a prescription oncology medicine used in the treatment of Neuro-Endocrine Tumour. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 131,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Octreotide",
+    "brandName": "Octreotide 30mg Injection",
+    "name": "Octreotide 30mg Injection",
+    "label": "Rx",
+    "price": 3035,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 3035
+      }
+    ],
+    "condition": "Neuro-Endocrine Tumour",
+    "description": "Octreotide is a prescription oncology medicine used in the treatment of Neuro-Endocrine Tumour. It falls under our Other Solid Tumors range and is available in one pack size (from 5 vials up to 5 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 132,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Sunitinib",
+    "brandName": "Sunitinib 25 mg Capsules",
+    "name": "Sunitinib 25 mg Capsules",
+    "label": "Rx",
+    "price": 105,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 105
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 175
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 250
+      }
+    ],
+    "condition": "Neuro-Endocrine Tumour",
+    "description": "Sunitinib is a prescription oncology medicine used in the treatment of Neuro-Endocrine Tumour. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 133,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Sunitinib",
+    "brandName": "Sunitinib 50 mg Capsules",
+    "name": "Sunitinib 50 mg Capsules",
+    "label": "Rx",
+    "price": 119,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 119
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 203
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 287
+      }
+    ],
+    "condition": "Neuro-Endocrine Tumour",
+    "description": "Sunitinib is a prescription oncology medicine used in the treatment of Neuro-Endocrine Tumour. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 134,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Cisplatin",
+    "brandName": "Cisplatin 10mg Injection",
+    "name": "Cisplatin 10mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "20 vials",
+        "price": 135
+      }
+    ],
+    "condition": "Testicular Cancer",
+    "description": "Cisplatin is a prescription oncology medicine used in the treatment of Testicular Cancer. It falls under our GI & Genitourinary Cancers range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 135,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Cisplatin",
+    "brandName": "Cisplatin 50mg Injection",
+    "name": "Cisplatin 50mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "20 vials",
+        "price": 235
+      }
+    ],
+    "condition": "Testicular Cancer",
+    "description": "Cisplatin is a prescription oncology medicine used in the treatment of Testicular Cancer. It falls under our GI & Genitourinary Cancers range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 136,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Etoposide",
+    "brandName": "Etoposide 50 mg Capsules",
+    "name": "Etoposide 50 mg Capsules",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "40 capsules",
+    "variants": [
+      {
+        "dosage": "40 capsules",
+        "price": 85
+      },
+      {
+        "dosage": "80 capsules",
+        "price": 135
+      },
+      {
+        "dosage": "120 capsules",
+        "price": 185
+      }
+    ],
+    "condition": "Testicular Cancer",
+    "description": "Etoposide is a prescription oncology medicine used in the treatment of Testicular Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 40 capsules up to 120 capsules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 137,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Etoposide",
+    "brandName": "Etoposide 100 mg Injection",
+    "name": "Etoposide 100 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Testicular Cancer",
+    "description": "Etoposide is a prescription oncology medicine used in the treatment of Testicular Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 138,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Cisplatin",
+    "brandName": "Cisplatin 10mg Injection",
+    "name": "Cisplatin 10mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "20 vials",
+        "price": 135
+      }
+    ],
+    "condition": "Bladder Cancer",
+    "description": "Cisplatin is a prescription oncology medicine used in the treatment of Bladder Cancer. It falls under our GI & Genitourinary Cancers range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 139,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Cisplatin",
+    "brandName": "Cisplatin 50mg Injection",
+    "name": "Cisplatin 50mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "20 vials",
+        "price": 235
+      }
+    ],
+    "condition": "Bladder Cancer",
+    "description": "Cisplatin is a prescription oncology medicine used in the treatment of Bladder Cancer. It falls under our GI & Genitourinary Cancers range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 140,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Gemcitabine",
+    "brandName": "Gemcitabine 200 mg Injection",
+    "name": "Gemcitabine 200 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Bladder Cancer",
+    "description": "Gemcitabine is a prescription oncology medicine used in the treatment of Bladder Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 141,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Gemcitabine",
+    "brandName": "Gemcitabine 1gm Injection",
+    "name": "Gemcitabine 1gm Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Bladder Cancer",
+    "description": "Gemcitabine is a prescription oncology medicine used in the treatment of Bladder Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 142,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "drugName": "Gemcitabine",
+    "brandName": "Gemcitabine 2gm Injection",
+    "name": "Gemcitabine 2gm Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Bladder Cancer",
+    "description": "Gemcitabine is a prescription oncology medicine used in the treatment of Bladder Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 143,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Doxorubicin",
+    "brandName": "Doxorubicin 10mg Injection",
+    "name": "Doxorubicin 10mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "20 vials",
+        "price": 235
+      }
+    ],
+    "condition": "Soft Tissue Sarcoma",
+    "description": "Doxorubicin is a prescription oncology medicine used in the treatment of Soft Tissue Sarcoma. It falls under our Other Solid Tumors range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 144,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Doxorubicin",
+    "brandName": "Doxorubicin 50mg Injection",
+    "name": "Doxorubicin 50mg Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 185
+      },
+      {
+        "dosage": "20 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Soft Tissue Sarcoma",
+    "description": "Doxorubicin is a prescription oncology medicine used in the treatment of Soft Tissue Sarcoma. It falls under our Other Solid Tumors range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 145,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Pazopanib",
+    "brandName": "Pazopanib 200 mg tablets",
+    "name": "Pazopanib 200 mg tablets",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "120 pills",
+        "price": 275
+      },
+      {
+        "dosage": "180 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Soft Tissue Sarcoma",
+    "description": "Pazopanib is a prescription oncology medicine used in the treatment of Soft Tissue Sarcoma. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 146,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "drugName": "Pazopanib",
+    "brandName": "Pazopanib 400 mg tablets",
+    "name": "Pazopanib 400 mg tablets",
+    "label": "Rx",
+    "price": 215,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 215
+      },
+      {
+        "dosage": "120 pills",
+        "price": 395
+      },
+      {
+        "dosage": "180 pills",
+        "price": 575
+      }
+    ],
+    "condition": "Soft Tissue Sarcoma",
+    "description": "Pazopanib is a prescription oncology medicine used in the treatment of Soft Tissue Sarcoma. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 147,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Carboplatin",
+    "brandName": "Carboplatin 150 mg Injection",
+    "name": "Carboplatin 150 mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 135
+      },
+      {
+        "dosage": "10 vials",
+        "price": 235
+      },
+      {
+        "dosage": "15 vials",
+        "price": 335
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Carboplatin is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 148,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Carboplatin",
+    "brandName": "Carboplatin 450 mg Injection",
+    "name": "Carboplatin 450 mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      },
+      {
+        "dosage": "15 vials",
+        "price": 1535
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Carboplatin is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 149,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Cisplatin",
+    "brandName": "Cisplatin 10mg Injection",
+    "name": "Cisplatin 10mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "20 vials",
+        "price": 135
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Cisplatin is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 150,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Cisplatin",
+    "brandName": "Cisplatin 50mg Injection",
+    "name": "Cisplatin 50mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "10 vials",
+    "variants": [
+      {
+        "dosage": "10 vials",
+        "price": 135
+      },
+      {
+        "dosage": "20 vials",
+        "price": 235
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Cisplatin is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 2 pack sizes (from 10 vials up to 20 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 151,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 20 mg injection",
+    "name": "Docetaxel 20 mg injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 152,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 80 mg Injection",
+    "name": "Docetaxel 80 mg Injection",
+    "label": "Rx",
+    "price": 215,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 215
+      },
+      {
+        "dosage": "10 vials",
+        "price": 395
+      },
+      {
+        "dosage": "15 vials",
+        "price": 575
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 153,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 120 mg Injection",
+    "name": "Docetaxel 120 mg Injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 235
+      },
+      {
+        "dosage": "10 vials",
+        "price": 435
+      },
+      {
+        "dosage": "15 vials",
+        "price": 635
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 154,
+    "category": "Oncology",
+    "subCategory": "Head, Neck & Skin Cancers",
+    "drugName": "Docetaxel",
+    "brandName": "Docetaxel 160 mg injection",
+    "name": "Docetaxel 160 mg injection",
+    "label": "Rx",
+    "price": 260,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 260
+      },
+      {
+        "dosage": "10 vials",
+        "price": 485
+      },
+      {
+        "dosage": "15 vials",
+        "price": 710
+      }
+    ],
+    "condition": "Head And Neck Cancers",
+    "description": "Docetaxel is a prescription oncology medicine used in the treatment of Head And Neck Cancers. It falls under our Head, Neck & Skin Cancers range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 155,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Zoledronic Acid",
+    "brandName": "Zoledronic Acid 4mg Injection",
+    "name": "Zoledronic Acid 4mg Injection",
+    "label": "Rx",
+    "price": 60,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 60
+      },
+      {
+        "dosage": "10 vials",
+        "price": 85
+      },
+      {
+        "dosage": "15 vials",
+        "price": 110
+      }
+    ],
+    "condition": "Bone Metastasis / Supportive Oncology",
+    "description": "Zoledronic Acid is a prescription oncology medicine used in the treatment of Bone Metastasis / Supportive Oncology. It falls under our Supportive Care range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 156,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Aprepitant",
+    "brandName": "Aprepitant 125mg Capsules",
+    "name": "Aprepitant 125mg Capsules",
+    "label": "Rx",
+    "price": 275,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 275
+      },
+      {
+        "dosage": "60 pills",
+        "price": 515
+      },
+      {
+        "dosage": "90 pills",
+        "price": 755
+      }
+    ],
+    "condition": "Supportive Care",
+    "description": "Aprepitant is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 157,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Aprepitant",
+    "brandName": "Aprepitant 125mg/80mg Capsules",
+    "name": "Aprepitant 125mg/80mg Capsules",
+    "label": "Rx",
+    "price": 275,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 275
+      },
+      {
+        "dosage": "60 pills",
+        "price": 515
+      },
+      {
+        "dosage": "90 pills",
+        "price": 755
+      }
+    ],
+    "condition": "Supportive Care",
+    "description": "Aprepitant is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 158,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Eltrombopag",
+    "brandName": "Eltrombopag 25mg Tablets",
+    "name": "Eltrombopag 25mg Tablets",
+    "label": "Rx",
+    "price": 63,
+    "href": "#buy",
+    "dosage": "28 pills",
+    "variants": [
+      {
+        "dosage": "28 pills",
+        "price": 63
+      },
+      {
+        "dosage": "56 pills",
+        "price": 91
+      },
+      {
+        "dosage": "84 pills",
+        "price": 119
+      }
+    ],
+    "condition": "Supportive Care",
+    "description": "Eltrombopag is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 28 pills up to 84 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 159,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Eltrombopag",
+    "brandName": "Eltrombopag 50mg Tablets",
+    "name": "Eltrombopag 50mg Tablets",
+    "label": "Rx",
+    "price": 91,
+    "href": "#buy",
+    "dosage": "28 pills",
+    "variants": [
+      {
+        "dosage": "28 pills",
+        "price": 91
+      },
+      {
+        "dosage": "56 pills",
+        "price": 147
+      },
+      {
+        "dosage": "84 pills",
+        "price": 203
+      }
+    ],
+    "condition": "Supportive Care",
+    "description": "Eltrombopag is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 28 pills up to 84 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 160,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Leucovorin Calcium",
+    "brandName": "Leucovorin Calcium 15 mg tablets",
+    "name": "Leucovorin Calcium 15 mg tablets",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 125
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      },
+      {
+        "dosage": "360 pills",
+        "price": 395
+      }
+    ],
+    "condition": "Supportive Care",
+    "description": "Leucovorin Calcium is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 161,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "drugName": "Leucovorin Calcium",
+    "brandName": "Leucovorin Calcium 50 Mg Injection",
+    "name": "Leucovorin Calcium 50 Mg Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "condition": "Supportive Care",
+    "description": "Leucovorin Calcium is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 162,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Abiraterone",
+    "brandName": "Abiraterone 250 mg Tablet",
+    "name": "Abiraterone 250 mg Tablet",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "120 pills",
+    "variants": [
+      {
+        "dosage": "120 pills",
+        "price": 155
+      },
+      {
+        "dosage": "240 pills",
+        "price": 275
+      },
+      {
+        "dosage": "360 pills",
+        "price": 395
+      }
+    ],
+    "description": "Abiraterone is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 120 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 163,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Abiraterone",
+    "brandName": "Abiraterone 500 mg Tablet",
+    "name": "Abiraterone 500 mg Tablet",
+    "label": "Rx",
+    "price": 275,
+    "href": "#buy",
+    "dosage": "120 pills",
+    "variants": [
+      {
+        "dosage": "120 pills",
+        "price": 275
+      },
+      {
+        "dosage": "240 pills",
+        "price": 515
+      },
+      {
+        "dosage": "360 pills",
+        "price": 755
+      }
+    ],
+    "description": "Abiraterone is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 120 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 164,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Apalutamide",
+    "brandName": "Apalutamide 60 mg Tablet",
+    "name": "Apalutamide 60 mg Tablet",
+    "label": "Rx",
+    "price": 255,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 255
+      },
+      {
+        "dosage": "120 pills",
+        "price": 475
+      },
+      {
+        "dosage": "180 pills",
+        "price": 695
+      }
+    ],
+    "description": "Apalutamide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 165,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Bicalutamide",
+    "brandName": "Bicalutamide 50 mg Tablet",
+    "name": "Bicalutamide 50 mg Tablet",
+    "label": "Rx",
+    "price": 125,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 125
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      },
+      {
+        "dosage": "360 pills",
+        "price": 395
+      }
+    ],
+    "description": "Bicalutamide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 166,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Bicalutamide",
+    "brandName": "Bicalutamide 150 mg Tablet",
+    "name": "Bicalutamide 150 mg Tablet",
+    "label": "Rx",
+    "price": 335,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 335
+      },
+      {
+        "dosage": "60 pills",
+        "price": 635
+      },
+      {
+        "dosage": "90 pills",
+        "price": 935
+      }
+    ],
+    "description": "Bicalutamide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 167,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Enzalutamide",
+    "brandName": "Enzalutamide 40 mg Tablet",
+    "name": "Enzalutamide 40 mg Tablet",
+    "label": "Rx",
+    "price": 147,
+    "href": "#buy",
+    "dosage": "112 pills",
+    "variants": [
+      {
+        "dosage": "112 pills",
+        "price": 147
+      },
+      {
+        "dosage": "224 pills",
+        "price": 259
+      },
+      {
+        "dosage": "336 pills",
+        "price": 371
+      }
+    ],
+    "description": "Enzalutamide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 112 pills up to 336 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 168,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Enzalutamide",
+    "brandName": "Enzalutamide 80 mg Tablet",
+    "name": "Enzalutamide 80 mg Tablet",
+    "label": "Rx",
+    "price": 203,
+    "href": "#buy",
+    "dosage": "112 pills",
+    "variants": [
+      {
+        "dosage": "112 pills",
+        "price": 203
+      },
+      {
+        "dosage": "224 pills",
+        "price": 371
+      },
+      {
+        "dosage": "336 pills",
+        "price": 539
+      }
+    ],
+    "description": "Enzalutamide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 112 pills up to 336 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 169,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Enzalutamide",
+    "brandName": "Enzalutamide 160 mg Tablet",
+    "name": "Enzalutamide 160 mg Tablet",
+    "label": "Rx",
+    "price": 268.37,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 268.37
+      },
+      {
+        "dosage": "60 pills",
+        "price": 501.74
+      },
+      {
+        "dosage": "90 pills",
+        "price": 735.11
+      }
+    ],
+    "description": "Enzalutamide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 170,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Leuprolide",
+    "brandName": "Leuprolide 1 mg Injection",
+    "name": "Leuprolide 1 mg Injection",
+    "label": "Rx",
+    "price": 85,
+    "href": "#buy",
+    "dosage": "10 ampoules",
+    "variants": [
+      {
+        "dosage": "10 ampoules",
+        "price": 85
+      },
+      {
+        "dosage": "20 ampoules",
+        "price": 135
+      },
+      {
+        "dosage": "30 ampoules",
+        "price": 155
+      }
+    ],
+    "description": "Leuprolide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 10 ampoules up to 30 ampoules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 171,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Leuprolide",
+    "brandName": "Leuprolide 3.75 Mg Injection",
+    "name": "Leuprolide 3.75 Mg Injection",
+    "label": "Rx",
+    "price": 135,
+    "href": "#buy",
+    "dosage": "10 ampoules",
+    "variants": [
+      {
+        "dosage": "10 ampoules",
+        "price": 135
+      },
+      {
+        "dosage": "20 ampoules",
+        "price": 235
+      },
+      {
+        "dosage": "30 ampoules",
+        "price": 335
+      }
+    ],
+    "description": "Leuprolide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 10 ampoules up to 30 ampoules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 172,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Leuprolide",
+    "brandName": "Leuprolide 7.5 mg Injection",
+    "name": "Leuprolide 7.5 mg Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "10 ampoules",
+    "variants": [
+      {
+        "dosage": "10 ampoules",
+        "price": 185
+      },
+      {
+        "dosage": "20 ampoules",
+        "price": 335
+      },
+      {
+        "dosage": "30 ampoules",
+        "price": 485
+      }
+    ],
+    "description": "Leuprolide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 10 ampoules up to 30 ampoules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 173,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Leuprolide",
+    "brandName": "Leuprolide 11.25 mg injection",
+    "name": "Leuprolide 11.25 mg injection",
+    "label": "Rx",
+    "price": 235,
+    "href": "#buy",
+    "dosage": "10 ampoules",
+    "variants": [
+      {
+        "dosage": "10 ampoules",
+        "price": 235
+      },
+      {
+        "dosage": "20 ampoules",
+        "price": 435
+      },
+      {
+        "dosage": "30 ampoules",
+        "price": 635
+      }
+    ],
+    "description": "Leuprolide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 10 ampoules up to 30 ampoules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 174,
+    "category": "Oncology",
+    "subCategory": "GI & Genitourinary Cancers",
+    "condition": "Prostate Cancer",
+    "drugName": "Leuprolide",
+    "brandName": "Leuprolide 22.5 mg injection",
+    "name": "Leuprolide 22.5 mg injection",
+    "label": "Rx",
+    "price": 255,
+    "href": "#buy",
+    "dosage": "10 ampoules",
+    "variants": [
+      {
+        "dosage": "10 ampoules",
+        "price": 255
+      },
+      {
+        "dosage": "20 ampoules",
+        "price": 475
+      },
+      {
+        "dosage": "30 ampoules",
+        "price": 695
+      }
+    ],
+    "description": "Leuprolide is a prescription oncology medicine used in the treatment of Prostate Cancer. It falls under our GI & Genitourinary Cancers range and is available in 3 pack sizes (from 10 ampoules up to 30 ampoules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 175,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Anastrozole",
+    "brandName": "Anastrozole 1mg Tablets",
+    "name": "Anastrozole 1mg Tablets",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 80
+      },
+      {
+        "dosage": "180 pills",
+        "price": 125
+      },
+      {
+        "dosage": "360 pills",
+        "price": 215
+      }
+    ],
+    "description": "Anastrozole is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 176,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Lapatinib",
+    "brandName": "Lapatinib 250 mg tablets",
+    "name": "Lapatinib 250 mg tablets",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 155
+      },
+      {
+        "dosage": "60 pills",
+        "price": 275
+      },
+      {
+        "dosage": "90 pills",
+        "price": 395
+      }
+    ],
+    "description": "Lapatinib is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 177,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Letrozole",
+    "brandName": "Letrozole 2.5 mg Tablets",
+    "name": "Letrozole 2.5 mg Tablets",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 80
+      },
+      {
+        "dosage": "180 pills",
+        "price": 125
+      },
+      {
+        "dosage": "360 pills",
+        "price": 215
+      }
+    ],
+    "description": "Letrozole is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 178,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Palbociclib",
+    "brandName": "Palbociclib 75 mg Capsules",
+    "name": "Palbociclib 75 mg Capsules",
+    "label": "Rx",
+    "price": 66.5,
+    "href": "#buy",
+    "dosage": "21 capsules",
+    "variants": [
+      {
+        "dosage": "21 capsules",
+        "price": 66.5
+      },
+      {
+        "dosage": "42 capsules",
+        "price": 98
+      },
+      {
+        "dosage": "63 capsules",
+        "price": 128
+      }
+    ],
+    "description": "Palbociclib is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 21 capsules up to 63 capsules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 179,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Palbociclib",
+    "brandName": "Palbociclib 100 mg capsules",
+    "name": "Palbociclib 100 mg capsules",
+    "label": "Rx",
+    "price": 77,
+    "href": "#buy",
+    "dosage": "21 capsules",
+    "variants": [
+      {
+        "dosage": "21 capsules",
+        "price": 77
+      },
+      {
+        "dosage": "42 capsules",
+        "price": 122
+      },
+      {
+        "dosage": "63 capsules",
+        "price": 167
+      }
+    ],
+    "description": "Palbociclib is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 21 capsules up to 63 capsules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 180,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Palbociclib",
+    "brandName": "Palbociclib 125 mg Capsules",
+    "name": "Palbociclib 125 mg Capsules",
+    "label": "Rx",
+    "price": 87,
+    "href": "#buy",
+    "dosage": "21 capsules",
+    "variants": [
+      {
+        "dosage": "21 capsules",
+        "price": 87
+      },
+      {
+        "dosage": "42 capsules",
+        "price": 140
+      },
+      {
+        "dosage": "63 capsules",
+        "price": 190
+      }
+    ],
+    "description": "Palbociclib is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 21 capsules up to 63 capsules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 181,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Tamoxifen",
+    "brandName": "Tamoxifen 10 mg Tablets",
+    "name": "Tamoxifen 10 mg Tablets",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 80
+      },
+      {
+        "dosage": "180 pills",
+        "price": 125
+      },
+      {
+        "dosage": "360 pills",
+        "price": 215
+      }
+    ],
+    "description": "Tamoxifen is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 182,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Breast Cancer",
+    "drugName": "Tamoxifen",
+    "brandName": "Tamoxifen 20 mg Tablets",
+    "name": "Tamoxifen 20 mg Tablets",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 80
+      },
+      {
+        "dosage": "180 pills",
+        "price": 125
+      },
+      {
+        "dosage": "360 pills",
+        "price": 215
+      }
+    ],
+    "description": "Tamoxifen is a prescription oncology medicine used in the treatment of Breast Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 183,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Afatinib",
+    "brandName": "Afatinib 20 mg Tablets",
+    "name": "Afatinib 20 mg Tablets",
+    "label": "Rx",
+    "price": 91,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 91
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 147
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 200
+      }
+    ],
+    "description": "Afatinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 184,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Afatinib",
+    "brandName": "Afatinib 30 mg Tablets",
+    "name": "Afatinib 30 mg Tablets",
+    "label": "Rx",
+    "price": 105,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 105
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 175
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 250
+      }
+    ],
+    "description": "Afatinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 185,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Afatinib",
+    "brandName": "Afatinib 40 mg tablets",
+    "name": "Afatinib 40 mg tablets",
+    "label": "Rx",
+    "price": 119,
+    "href": "#buy",
+    "dosage": "28 tablets",
+    "variants": [
+      {
+        "dosage": "28 tablets",
+        "price": 119
+      },
+      {
+        "dosage": "56 tablets",
+        "price": 203
+      },
+      {
+        "dosage": "84 tablets",
+        "price": 287
+      }
+    ],
+    "description": "Afatinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 28 tablets up to 84 tablets) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 186,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Crizotinib",
+    "brandName": "Crizotinib 250 mg tablets",
+    "name": "Crizotinib 250 mg tablets",
+    "label": "Rx",
+    "price": 950,
+    "href": "#buy",
+    "dosage": "60 capsules",
+    "variants": [
+      {
+        "dosage": "60 capsules",
+        "price": 950
+      }
+    ],
+    "description": "Crizotinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in one pack size (from 60 capsules up to 60 capsules) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 187,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Erlotinib",
+    "brandName": "Erlotinib 100 mg tablets",
+    "name": "Erlotinib 100 mg tablets",
+    "label": "Rx",
+    "price": 155,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 155
+      },
+      {
+        "dosage": "60 pills",
+        "price": 275
+      },
+      {
+        "dosage": "90 pills",
+        "price": 395
+      }
+    ],
+    "description": "Erlotinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 188,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Erlotinib",
+    "brandName": "Erlotinib 150 mg tablets",
+    "name": "Erlotinib 150 mg tablets",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 185
+      },
+      {
+        "dosage": "60 pills",
+        "price": 335
+      },
+      {
+        "dosage": "90 pills",
+        "price": 485
+      }
+    ],
+    "description": "Erlotinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 189,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Gefitinib",
+    "brandName": "Gefitinib 250 mg Tablets",
+    "name": "Gefitinib 250 mg Tablets",
+    "label": "Rx",
+    "price": 260,
+    "href": "#buy",
+    "dosage": "90 pills",
+    "variants": [
+      {
+        "dosage": "90 pills",
+        "price": 260
+      },
+      {
+        "dosage": "180 pills",
+        "price": 485
+      },
+      {
+        "dosage": "360 pills",
+        "price": 935
+      }
+    ],
+    "description": "Gefitinib is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 90 pills up to 360 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 190,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Pemetrexed",
+    "brandName": "Pemetrexed 100 mg Injection",
+    "name": "Pemetrexed 100 mg Injection",
+    "label": "Rx",
+    "price": 185,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 185
+      },
+      {
+        "dosage": "10 vials",
+        "price": 335
+      },
+      {
+        "dosage": "15 vials",
+        "price": 485
+      }
+    ],
+    "description": "Pemetrexed is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 191,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Pemetrexed",
+    "brandName": "Pemetrexed 500 mg injection",
+    "name": "Pemetrexed 500 mg injection",
+    "label": "Rx",
+    "price": 285,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 285
+      },
+      {
+        "dosage": "10 vials",
+        "price": 535
+      },
+      {
+        "dosage": "15 vials",
+        "price": 785
+      }
+    ],
+    "description": "Pemetrexed is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 192,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Vinorelbine",
+    "brandName": "Vinorelbine 10 mg Injection",
+    "name": "Vinorelbine 10 mg Injection",
+    "label": "Rx",
+    "price": 385,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 385
+      },
+      {
+        "dosage": "10 vials",
+        "price": 735
+      },
+      {
+        "dosage": "15 vials",
+        "price": 1085
+      }
+    ],
+    "description": "Vinorelbine is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 193,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Lung Cancer",
+    "drugName": "Vinorelbine",
+    "brandName": "Vinorelbine 50 mg Injection",
+    "name": "Vinorelbine 50 mg Injection",
+    "label": "Rx",
+    "price": 535,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 535
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1035
+      },
+      {
+        "dosage": "15 vials",
+        "price": 1535
+      }
+    ],
+    "description": "Vinorelbine is a prescription oncology medicine used in the treatment of Lung Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 5 vials up to 15 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 194,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Kidney & Liver Cancer",
+    "drugName": "Axitinib",
+    "brandName": "Axitinib 5 mg Tablets",
+    "name": "Axitinib 5 mg Tablets",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 95
+      },
+      {
+        "dosage": "120 pills",
+        "price": 155
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      }
+    ],
+    "description": "Axitinib is a prescription oncology medicine used in the treatment of Kidney & Liver Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 195,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Kidney & Liver Cancer",
+    "drugName": "Lenvatinib",
+    "brandName": "Lenvatinib 10 mg Capsules",
+    "name": "Lenvatinib 10 mg Capsules",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 95
+      },
+      {
+        "dosage": "120 pills",
+        "price": 155
+      },
+      {
+        "dosage": "180 pills",
+        "price": 215
+      }
+    ],
+    "description": "Lenvatinib is a prescription oncology medicine used in the treatment of Kidney & Liver Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 196,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Kidney & Liver Cancer",
+    "drugName": "Lenvatinib",
+    "brandName": "Lenvatinib 4 mg Capsules",
+    "name": "Lenvatinib 4 mg Capsules",
+    "label": "Rx",
+    "price": 80,
+    "href": "#buy",
+    "dosage": "60 pills",
+    "variants": [
+      {
+        "dosage": "60 pills",
+        "price": 80
+      },
+      {
+        "dosage": "120 pills",
+        "price": 135
+      },
+      {
+        "dosage": "180 pills",
+        "price": 180
+      }
+    ],
+    "description": "Lenvatinib is a prescription oncology medicine used in the treatment of Kidney & Liver Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 60 pills up to 180 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 197,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Kidney & Liver Cancer",
+    "drugName": "Sorafenib",
+    "brandName": "Sorafenib 200 mg Capsules",
+    "name": "Sorafenib 200 mg Capsules",
+    "label": "Rx",
+    "price": 55,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 55
+      },
+      {
+        "dosage": "60 pills",
+        "price": 75
+      },
+      {
+        "dosage": "90 pills",
+        "price": 95
+      }
+    ],
+    "description": "Sorafenib is a prescription oncology medicine used in the treatment of Kidney & Liver Cancer. It falls under our Other Solid Tumors range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 198,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Ovarian Cancer",
+    "drugName": "Topotecan",
+    "brandName": "Topotecan 2.5 mg Injection",
+    "name": "Topotecan 2.5 mg Injection",
+    "label": "Rx",
+    "price": 635,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 635
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1235
+      }
+    ],
+    "description": "Topotecan is a prescription oncology medicine used in the treatment of Ovarian Cancer. It falls under our Other Solid Tumors range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 199,
+    "category": "Oncology",
+    "subCategory": "Other Solid Tumors",
+    "condition": "Ovarian Cancer",
+    "drugName": "Topotecan",
+    "brandName": "Topotecan 4 mg Injection",
+    "name": "Topotecan 4 mg Injection",
+    "label": "Rx",
+    "price": 735,
+    "href": "#buy",
+    "dosage": "5 vials",
+    "variants": [
+      {
+        "dosage": "5 vials",
+        "price": 735
+      },
+      {
+        "dosage": "10 vials",
+        "price": 1435
+      }
+    ],
+    "description": "Topotecan is a prescription oncology medicine used in the treatment of Ovarian Cancer. It falls under our Other Solid Tumors range and is available in 2 pack sizes (from 5 vials up to 10 vials) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 200,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "condition": "Supportive Care",
+    "drugName": "Megestrol Acetate",
+    "brandName": "Megestrol Acetate 40 mg Tablets",
+    "name": "Megestrol Acetate 40 mg Tablets",
+    "label": "Rx",
+    "price": 65,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 65
+      },
+      {
+        "dosage": "60 pills",
+        "price": 95
+      },
+      {
+        "dosage": "90 pills",
+        "price": 125
+      }
+    ],
+    "description": "Megestrol Acetate is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
+  },
+  {
+    "id": 201,
+    "category": "Oncology",
+    "subCategory": "Supportive Care",
+    "condition": "Supportive Care",
+    "drugName": "Megestrol Acetate",
+    "brandName": "Megestrol Acetate 160 mg Tablets",
+    "name": "Megestrol Acetate 160 mg Tablets",
+    "label": "Rx",
+    "price": 95,
+    "href": "#buy",
+    "dosage": "30 pills",
+    "variants": [
+      {
+        "dosage": "30 pills",
+        "price": 95
+      },
+      {
+        "dosage": "60 pills",
+        "price": 155
+      },
+      {
+        "dosage": "90 pills",
+        "price": 215
+      }
+    ],
+    "description": "Megestrol Acetate is a prescription oncology medicine used in the treatment of Supportive Care. It falls under our Supportive Care range and is available in 3 pack sizes (from 30 pills up to 90 pills) to match different treatment plans. This medicine is dispensed only against a valid prescription from a licensed oncologist."
   }
 ]
